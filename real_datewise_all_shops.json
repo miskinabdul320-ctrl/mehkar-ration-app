@@ -1,0 +1,7806 @@
+{
+  "150024600318": {
+    "2026-09": {
+      "aayRows": [
+        {
+          "scheme": "AAY",
+          "date": "12-09-2026",
+          "wheat": 220,
+          "rice": 0,
+          "sugar": 20,
+          "jowar": 200,
+          "fRice": 280,
+          "total": 720
+        },
+        {
+          "scheme": "AAY",
+          "date": "13-09-2026",
+          "wheat": 275,
+          "rice": 0,
+          "sugar": 27,
+          "jowar": 250,
+          "fRice": 350,
+          "total": 902
+        },
+        {
+          "scheme": "AAY",
+          "date": "14-09-2026",
+          "wheat": 165,
+          "rice": 0,
+          "sugar": 17,
+          "jowar": 150,
+          "fRice": 210,
+          "total": 542
+        },
+        {
+          "scheme": "AAY",
+          "date": "15-09-2026",
+          "wheat": 131,
+          "rice": 20,
+          "sugar": 16,
+          "jowar": 115,
+          "fRice": 154,
+          "total": 436
+        },
+        {
+          "scheme": "AAY",
+          "date": "16-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 35
+        },
+        {
+          "scheme": "AAY",
+          "date": "17-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 35
+        },
+        {
+          "scheme": "AAY",
+          "date": "20-09-2026",
+          "wheat": 22,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 20,
+          "fRice": 28,
+          "total": 70
+        },
+        {
+          "scheme": "AAY",
+          "date": "21-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 35
+        },
+        {
+          "scheme": "AAY",
+          "date": "26-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 20,
+          "fRice": 16,
+          "total": 47
+        },
+        {
+          "scheme": "AAY",
+          "date": "30-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 10,
+          "fRice": 28,
+          "total": 49
+        }
+      ],
+      "aayTotal": {
+        "wheat": 868,
+        "rice": 20,
+        "sugar": 80,
+        "jowar": 795,
+        "fRice": 1108,
+        "total": 2871
+      },
+      "phhRows": [
+        {
+          "scheme": "PHH",
+          "date": "12-09-2026",
+          "wheat": 820.5,
+          "rice": 12,
+          "sugar": 0,
+          "jowar": 828.5,
+          "fRice": 1094,
+          "total": 2755
+        },
+        {
+          "scheme": "PHH",
+          "date": "13-09-2026",
+          "wheat": 552.5,
+          "rice": 16,
+          "sugar": 0,
+          "jowar": 560.5,
+          "fRice": 734,
+          "total": 1863
+        },
+        {
+          "scheme": "PHH",
+          "date": "14-09-2026",
+          "wheat": 643,
+          "rice": 21,
+          "sugar": 0,
+          "jowar": 646,
+          "fRice": 855,
+          "total": 2165
+        },
+        {
+          "scheme": "PHH",
+          "date": "15-09-2026",
+          "wheat": 313,
+          "rice": 20,
+          "sugar": 0,
+          "jowar": 325,
+          "fRice": 412,
+          "total": 1070
+        },
+        {
+          "scheme": "PHH",
+          "date": "16-09-2026",
+          "wheat": 67.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 49.5,
+          "fRice": 78,
+          "total": 195
+        },
+        {
+          "scheme": "PHH",
+          "date": "17-09-2026",
+          "wheat": 31.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 31.5,
+          "fRice": 42,
+          "total": 105
+        },
+        {
+          "scheme": "PHH",
+          "date": "18-09-2026",
+          "wheat": 22.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 22.5,
+          "fRice": 30,
+          "total": 75
+        },
+        {
+          "scheme": "PHH",
+          "date": "19-09-2026",
+          "wheat": 3,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 3,
+          "fRice": 4,
+          "total": 10
+        },
+        {
+          "scheme": "PHH",
+          "date": "20-09-2026",
+          "wheat": 99,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 99,
+          "fRice": 132,
+          "total": 330
+        },
+        {
+          "scheme": "PHH",
+          "date": "21-09-2026",
+          "wheat": 18,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 18,
+          "fRice": 24,
+          "total": 60
+        },
+        {
+          "scheme": "PHH",
+          "date": "22-09-2026",
+          "wheat": 12,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 12,
+          "fRice": 16,
+          "total": 40
+        },
+        {
+          "scheme": "PHH",
+          "date": "24-09-2026",
+          "wheat": 55.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 55.5,
+          "fRice": 74,
+          "total": 185
+        },
+        {
+          "scheme": "PHH",
+          "date": "26-09-2026",
+          "wheat": 7.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 7.5,
+          "fRice": 10,
+          "total": 25
+        },
+        {
+          "scheme": "PHH",
+          "date": "27-09-2026",
+          "wheat": 42,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 42,
+          "fRice": 56,
+          "total": 140
+        },
+        {
+          "scheme": "PHH",
+          "date": "28-09-2026",
+          "wheat": 40.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 40.5,
+          "fRice": 54,
+          "total": 135
+        },
+        {
+          "scheme": "PHH",
+          "date": "29-09-2026",
+          "wheat": 30,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 30,
+          "fRice": 40,
+          "total": 100
+        },
+        {
+          "scheme": "PHH",
+          "date": "30-09-2026",
+          "wheat": 40.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 58.5,
+          "fRice": 78,
+          "total": 177
+        }
+      ],
+      "phhTotal": {
+        "wheat": 2798.5,
+        "rice": 69,
+        "sugar": 0,
+        "jowar": 2829.5,
+        "fRice": 3733,
+        "total": 9430
+      }
+    },
+    "2026-08": {
+      "aayRows": [
+        {
+          "scheme": "AAY",
+          "date": "12-09-2026",
+          "wheat": 220,
+          "rice": 0,
+          "sugar": 20,
+          "jowar": 200,
+          "fRice": 280,
+          "total": 720
+        },
+        {
+          "scheme": "AAY",
+          "date": "13-09-2026",
+          "wheat": 275,
+          "rice": 0,
+          "sugar": 27,
+          "jowar": 250,
+          "fRice": 350,
+          "total": 902
+        },
+        {
+          "scheme": "AAY",
+          "date": "14-09-2026",
+          "wheat": 165,
+          "rice": 0,
+          "sugar": 17,
+          "jowar": 150,
+          "fRice": 210,
+          "total": 542
+        },
+        {
+          "scheme": "AAY",
+          "date": "15-09-2026",
+          "wheat": 131,
+          "rice": 20,
+          "sugar": 16,
+          "jowar": 115,
+          "fRice": 154,
+          "total": 436
+        },
+        {
+          "scheme": "AAY",
+          "date": "16-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 35
+        },
+        {
+          "scheme": "AAY",
+          "date": "17-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 35
+        },
+        {
+          "scheme": "AAY",
+          "date": "20-09-2026",
+          "wheat": 22,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 20,
+          "fRice": 28,
+          "total": 70
+        },
+        {
+          "scheme": "AAY",
+          "date": "21-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 35
+        },
+        {
+          "scheme": "AAY",
+          "date": "26-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 20,
+          "fRice": 16,
+          "total": 47
+        },
+        {
+          "scheme": "AAY",
+          "date": "30-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 10,
+          "fRice": 28,
+          "total": 49
+        }
+      ],
+      "aayTotal": {
+        "wheat": 868,
+        "rice": 20,
+        "sugar": 80,
+        "jowar": 795,
+        "fRice": 1108,
+        "total": 2871
+      },
+      "phhRows": [
+        {
+          "scheme": "PHH",
+          "date": "12-09-2026",
+          "wheat": 820.5,
+          "rice": 12,
+          "sugar": 0,
+          "jowar": 828.5,
+          "fRice": 1094,
+          "total": 2755
+        },
+        {
+          "scheme": "PHH",
+          "date": "13-09-2026",
+          "wheat": 552.5,
+          "rice": 16,
+          "sugar": 0,
+          "jowar": 560.5,
+          "fRice": 734,
+          "total": 1863
+        },
+        {
+          "scheme": "PHH",
+          "date": "14-09-2026",
+          "wheat": 643,
+          "rice": 21,
+          "sugar": 0,
+          "jowar": 646,
+          "fRice": 855,
+          "total": 2165
+        },
+        {
+          "scheme": "PHH",
+          "date": "15-09-2026",
+          "wheat": 313,
+          "rice": 20,
+          "sugar": 0,
+          "jowar": 325,
+          "fRice": 412,
+          "total": 1070
+        },
+        {
+          "scheme": "PHH",
+          "date": "16-09-2026",
+          "wheat": 67.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 49.5,
+          "fRice": 78,
+          "total": 195
+        },
+        {
+          "scheme": "PHH",
+          "date": "17-09-2026",
+          "wheat": 31.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 31.5,
+          "fRice": 42,
+          "total": 105
+        },
+        {
+          "scheme": "PHH",
+          "date": "18-09-2026",
+          "wheat": 22.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 22.5,
+          "fRice": 30,
+          "total": 75
+        },
+        {
+          "scheme": "PHH",
+          "date": "19-09-2026",
+          "wheat": 3,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 3,
+          "fRice": 4,
+          "total": 10
+        },
+        {
+          "scheme": "PHH",
+          "date": "20-09-2026",
+          "wheat": 99,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 99,
+          "fRice": 132,
+          "total": 330
+        },
+        {
+          "scheme": "PHH",
+          "date": "21-09-2026",
+          "wheat": 18,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 18,
+          "fRice": 24,
+          "total": 60
+        },
+        {
+          "scheme": "PHH",
+          "date": "22-09-2026",
+          "wheat": 12,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 12,
+          "fRice": 16,
+          "total": 40
+        },
+        {
+          "scheme": "PHH",
+          "date": "24-09-2026",
+          "wheat": 55.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 55.5,
+          "fRice": 74,
+          "total": 185
+        },
+        {
+          "scheme": "PHH",
+          "date": "26-09-2026",
+          "wheat": 7.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 7.5,
+          "fRice": 10,
+          "total": 25
+        },
+        {
+          "scheme": "PHH",
+          "date": "27-09-2026",
+          "wheat": 42,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 42,
+          "fRice": 56,
+          "total": 140
+        },
+        {
+          "scheme": "PHH",
+          "date": "28-09-2026",
+          "wheat": 40.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 40.5,
+          "fRice": 54,
+          "total": 135
+        },
+        {
+          "scheme": "PHH",
+          "date": "29-09-2026",
+          "wheat": 30,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 30,
+          "fRice": 40,
+          "total": 100
+        },
+        {
+          "scheme": "PHH",
+          "date": "30-09-2026",
+          "wheat": 40.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 58.5,
+          "fRice": 78,
+          "total": 177
+        }
+      ],
+      "phhTotal": {
+        "wheat": 2798.5,
+        "rice": 69,
+        "sugar": 0,
+        "jowar": 2829.5,
+        "fRice": 3733,
+        "total": 9430
+      }
+    }
+  },
+  "150024600319": {
+    "2026-09": {
+      "aayRows": [
+        {
+          "scheme": "AAY",
+          "date": "09-09-2026",
+          "wheat": 231,
+          "rice": 0,
+          "sugar": 21,
+          "jowar": 210,
+          "fRice": 294,
+          "total": 756
+        },
+        {
+          "scheme": "AAY",
+          "date": "10-09-2026",
+          "wheat": 143,
+          "rice": 0,
+          "sugar": 13,
+          "jowar": 130,
+          "fRice": 182,
+          "total": 468
+        },
+        {
+          "scheme": "AAY",
+          "date": "11-09-2026",
+          "wheat": 154,
+          "rice": 0,
+          "sugar": 5,
+          "jowar": 140,
+          "fRice": 196,
+          "total": 495
+        },
+        {
+          "scheme": "AAY",
+          "date": "12-09-2026",
+          "wheat": 88,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 80,
+          "fRice": 112,
+          "total": 280
+        },
+        {
+          "scheme": "AAY",
+          "date": "13-09-2026",
+          "wheat": 22,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 20,
+          "fRice": 28,
+          "total": 70
+        },
+        {
+          "scheme": "AAY",
+          "date": "29-09-2026",
+          "wheat": 22,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 20,
+          "fRice": 28,
+          "total": 70
+        },
+        {
+          "scheme": "AAY",
+          "date": "30-09-2026",
+          "wheat": 22,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 20,
+          "fRice": 28,
+          "total": 70
+        }
+      ],
+      "aayTotal": {
+        "wheat": 682,
+        "rice": 0,
+        "sugar": 39,
+        "jowar": 620,
+        "fRice": 868,
+        "total": 2209
+      },
+      "phhRows": [
+        {
+          "scheme": "PHH",
+          "date": "01-10-2026",
+          "wheat": 64.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 64.5,
+          "fRice": 86,
+          "total": 215
+        },
+        {
+          "scheme": "PHH",
+          "date": "09-09-2026",
+          "wheat": 598,
+          "rice": 14,
+          "sugar": 0,
+          "jowar": 607,
+          "fRice": 796,
+          "total": 2015
+        },
+        {
+          "scheme": "PHH",
+          "date": "10-09-2026",
+          "wheat": 457.5,
+          "rice": 9,
+          "sugar": 0,
+          "jowar": 463.5,
+          "fRice": 610,
+          "total": 1540
+        },
+        {
+          "scheme": "PHH",
+          "date": "11-09-2026",
+          "wheat": 489,
+          "rice": 30,
+          "sugar": 0,
+          "jowar": 509,
+          "fRice": 652,
+          "total": 1680
+        },
+        {
+          "scheme": "PHH",
+          "date": "12-09-2026",
+          "wheat": 138,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 138,
+          "fRice": 184,
+          "total": 460
+        },
+        {
+          "scheme": "PHH",
+          "date": "13-09-2026",
+          "wheat": 201,
+          "rice": 9,
+          "sugar": 0,
+          "jowar": 207,
+          "fRice": 268,
+          "total": 685
+        },
+        {
+          "scheme": "PHH",
+          "date": "14-09-2026",
+          "wheat": 49.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 49.5,
+          "fRice": 66,
+          "total": 165
+        },
+        {
+          "scheme": "PHH",
+          "date": "23-09-2026",
+          "wheat": 70.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 70.5,
+          "fRice": 94,
+          "total": 235
+        },
+        {
+          "scheme": "PHH",
+          "date": "29-09-2026",
+          "wheat": 3,
+          "rice": 9,
+          "sugar": 0,
+          "jowar": 9,
+          "fRice": 4,
+          "total": 25
+        },
+        {
+          "scheme": "PHH",
+          "date": "30-09-2026",
+          "wheat": 18,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 26.5,
+          "fRice": 57,
+          "total": 101.5
+        }
+      ],
+      "phhTotal": {
+        "wheat": 2089,
+        "rice": 71,
+        "sugar": 0,
+        "jowar": 2144.5,
+        "fRice": 2817,
+        "total": 7121.5
+      }
+    },
+    "2026-08": {
+      "aayRows": [
+        {
+          "scheme": "AAY",
+          "date": "09-09-2026",
+          "wheat": 231,
+          "rice": 0,
+          "sugar": 21,
+          "jowar": 210,
+          "fRice": 294,
+          "total": 756
+        },
+        {
+          "scheme": "AAY",
+          "date": "10-09-2026",
+          "wheat": 143,
+          "rice": 0,
+          "sugar": 13,
+          "jowar": 130,
+          "fRice": 182,
+          "total": 468
+        },
+        {
+          "scheme": "AAY",
+          "date": "11-09-2026",
+          "wheat": 154,
+          "rice": 0,
+          "sugar": 5,
+          "jowar": 140,
+          "fRice": 196,
+          "total": 495
+        },
+        {
+          "scheme": "AAY",
+          "date": "12-09-2026",
+          "wheat": 88,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 80,
+          "fRice": 112,
+          "total": 280
+        },
+        {
+          "scheme": "AAY",
+          "date": "13-09-2026",
+          "wheat": 22,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 20,
+          "fRice": 28,
+          "total": 70
+        },
+        {
+          "scheme": "AAY",
+          "date": "29-09-2026",
+          "wheat": 22,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 20,
+          "fRice": 28,
+          "total": 70
+        },
+        {
+          "scheme": "AAY",
+          "date": "30-09-2026",
+          "wheat": 22,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 20,
+          "fRice": 28,
+          "total": 70
+        }
+      ],
+      "aayTotal": {
+        "wheat": 682,
+        "rice": 0,
+        "sugar": 39,
+        "jowar": 620,
+        "fRice": 868,
+        "total": 2209
+      },
+      "phhRows": [
+        {
+          "scheme": "PHH",
+          "date": "01-10-2026",
+          "wheat": 64.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 64.5,
+          "fRice": 86,
+          "total": 215
+        },
+        {
+          "scheme": "PHH",
+          "date": "09-09-2026",
+          "wheat": 598,
+          "rice": 14,
+          "sugar": 0,
+          "jowar": 607,
+          "fRice": 796,
+          "total": 2015
+        },
+        {
+          "scheme": "PHH",
+          "date": "10-09-2026",
+          "wheat": 457.5,
+          "rice": 9,
+          "sugar": 0,
+          "jowar": 463.5,
+          "fRice": 610,
+          "total": 1540
+        },
+        {
+          "scheme": "PHH",
+          "date": "11-09-2026",
+          "wheat": 489,
+          "rice": 30,
+          "sugar": 0,
+          "jowar": 509,
+          "fRice": 652,
+          "total": 1680
+        },
+        {
+          "scheme": "PHH",
+          "date": "12-09-2026",
+          "wheat": 138,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 138,
+          "fRice": 184,
+          "total": 460
+        },
+        {
+          "scheme": "PHH",
+          "date": "13-09-2026",
+          "wheat": 201,
+          "rice": 9,
+          "sugar": 0,
+          "jowar": 207,
+          "fRice": 268,
+          "total": 685
+        },
+        {
+          "scheme": "PHH",
+          "date": "14-09-2026",
+          "wheat": 49.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 49.5,
+          "fRice": 66,
+          "total": 165
+        },
+        {
+          "scheme": "PHH",
+          "date": "23-09-2026",
+          "wheat": 70.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 70.5,
+          "fRice": 94,
+          "total": 235
+        },
+        {
+          "scheme": "PHH",
+          "date": "29-09-2026",
+          "wheat": 3,
+          "rice": 9,
+          "sugar": 0,
+          "jowar": 9,
+          "fRice": 4,
+          "total": 25
+        },
+        {
+          "scheme": "PHH",
+          "date": "30-09-2026",
+          "wheat": 18,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 26.5,
+          "fRice": 57,
+          "total": 101.5
+        }
+      ],
+      "phhTotal": {
+        "wheat": 2089,
+        "rice": 71,
+        "sugar": 0,
+        "jowar": 2144.5,
+        "fRice": 2817,
+        "total": 7121.5
+      }
+    }
+  },
+  "150024600320": {
+    "2026-09": {
+      "aayRows": [
+        {
+          "scheme": "AAY",
+          "date": "13-09-2026",
+          "wheat": 33,
+          "rice": 0,
+          "sugar": 3,
+          "jowar": 30,
+          "fRice": 42,
+          "total": 108
+        },
+        {
+          "scheme": "AAY",
+          "date": "14-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 1,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 36
+        },
+        {
+          "scheme": "AAY",
+          "date": "15-09-2026",
+          "wheat": 99,
+          "rice": 0,
+          "sugar": 10,
+          "jowar": 90,
+          "fRice": 126,
+          "total": 325
+        },
+        {
+          "scheme": "AAY",
+          "date": "16-09-2026",
+          "wheat": 198,
+          "rice": 0,
+          "sugar": 19,
+          "jowar": 180,
+          "fRice": 252,
+          "total": 649
+        },
+        {
+          "scheme": "AAY",
+          "date": "17-09-2026",
+          "wheat": 122,
+          "rice": 31,
+          "sugar": 13,
+          "jowar": 127,
+          "fRice": 140,
+          "total": 433
+        },
+        {
+          "scheme": "AAY",
+          "date": "18-09-2026",
+          "wheat": 88,
+          "rice": 0,
+          "sugar": 8,
+          "jowar": 80,
+          "fRice": 112,
+          "total": 288
+        },
+        {
+          "scheme": "AAY",
+          "date": "19-09-2026",
+          "wheat": 110,
+          "rice": 0,
+          "sugar": 11,
+          "jowar": 100,
+          "fRice": 140,
+          "total": 361
+        },
+        {
+          "scheme": "AAY",
+          "date": "20-09-2026",
+          "wheat": 66,
+          "rice": 0,
+          "sugar": 7,
+          "jowar": 60,
+          "fRice": 84,
+          "total": 217
+        },
+        {
+          "scheme": "AAY",
+          "date": "21-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 2,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 37
+        },
+        {
+          "scheme": "AAY",
+          "date": "22-09-2026",
+          "wheat": 77,
+          "rice": 0,
+          "sugar": 3,
+          "jowar": 70,
+          "fRice": 98,
+          "total": 248
+        },
+        {
+          "scheme": "AAY",
+          "date": "24-09-2026",
+          "wheat": 44,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 40,
+          "fRice": 56,
+          "total": 140
+        },
+        {
+          "scheme": "AAY",
+          "date": "26-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 0,
+          "fRice": 12,
+          "total": 23
+        },
+        {
+          "scheme": "AAY",
+          "date": "28-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 10,
+          "fRice": 0,
+          "total": 21
+        }
+      ],
+      "aayTotal": {
+        "wheat": 881,
+        "rice": 31,
+        "sugar": 77,
+        "jowar": 807,
+        "fRice": 1090,
+        "total": 2886
+      },
+      "phhRows": [
+        {
+          "scheme": "PHH",
+          "date": "10-09-2026",
+          "wheat": 7.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 7.5,
+          "fRice": 10,
+          "total": 25
+        },
+        {
+          "scheme": "PHH",
+          "date": "12-09-2026",
+          "wheat": 3,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 3,
+          "fRice": 4,
+          "total": 10
+        },
+        {
+          "scheme": "PHH",
+          "date": "13-09-2026",
+          "wheat": 45,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 45,
+          "fRice": 60,
+          "total": 150
+        },
+        {
+          "scheme": "PHH",
+          "date": "14-09-2026",
+          "wheat": 30,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 30,
+          "fRice": 40,
+          "total": 100
+        },
+        {
+          "scheme": "PHH",
+          "date": "15-09-2026",
+          "wheat": 556.5,
+          "rice": 30,
+          "sugar": 0,
+          "jowar": 576.5,
+          "fRice": 742,
+          "total": 1905
+        },
+        {
+          "scheme": "PHH",
+          "date": "16-09-2026",
+          "wheat": 818,
+          "rice": 37,
+          "sugar": 0,
+          "jowar": 816,
+          "fRice": 1064,
+          "total": 2735
+        },
+        {
+          "scheme": "PHH",
+          "date": "17-09-2026",
+          "wheat": 945.5,
+          "rice": 40,
+          "sugar": 0,
+          "jowar": 958.5,
+          "fRice": 1246,
+          "total": 3190
+        },
+        {
+          "scheme": "PHH",
+          "date": "18-09-2026",
+          "wheat": 567,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 567,
+          "fRice": 756,
+          "total": 1890
+        },
+        {
+          "scheme": "PHH",
+          "date": "19-09-2026",
+          "wheat": 406.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 394.5,
+          "fRice": 534,
+          "total": 1335
+        },
+        {
+          "scheme": "PHH",
+          "date": "20-09-2026",
+          "wheat": 252,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 252,
+          "fRice": 336,
+          "total": 840
+        },
+        {
+          "scheme": "PHH",
+          "date": "21-09-2026",
+          "wheat": 24,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 24,
+          "fRice": 32,
+          "total": 80
+        },
+        {
+          "scheme": "PHH",
+          "date": "22-09-2026",
+          "wheat": 195,
+          "rice": 30,
+          "sugar": 0,
+          "jowar": 215,
+          "fRice": 260,
+          "total": 700
+        },
+        {
+          "scheme": "PHH",
+          "date": "24-09-2026",
+          "wheat": 130.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 130.5,
+          "fRice": 174,
+          "total": 435
+        },
+        {
+          "scheme": "PHH",
+          "date": "26-09-2026",
+          "wheat": 66,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 66,
+          "fRice": 88,
+          "total": 220
+        },
+        {
+          "scheme": "PHH",
+          "date": "29-09-2026",
+          "wheat": 12,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 0,
+          "fRice": 0,
+          "total": 12
+        },
+        {
+          "scheme": "PHH",
+          "date": "30-09-2026",
+          "wheat": 6,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 0,
+          "fRice": 0,
+          "total": 6
+        }
+      ],
+      "phhTotal": {
+        "wheat": 4064.5,
+        "rice": 137,
+        "sugar": 0,
+        "jowar": 4085.5,
+        "fRice": 5346,
+        "total": 13633
+      }
+    },
+    "2026-08": {
+      "aayRows": [
+        {
+          "scheme": "AAY",
+          "date": "13-09-2026",
+          "wheat": 33,
+          "rice": 0,
+          "sugar": 3,
+          "jowar": 30,
+          "fRice": 42,
+          "total": 108
+        },
+        {
+          "scheme": "AAY",
+          "date": "14-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 1,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 36
+        },
+        {
+          "scheme": "AAY",
+          "date": "15-09-2026",
+          "wheat": 99,
+          "rice": 0,
+          "sugar": 10,
+          "jowar": 90,
+          "fRice": 126,
+          "total": 325
+        },
+        {
+          "scheme": "AAY",
+          "date": "16-09-2026",
+          "wheat": 198,
+          "rice": 0,
+          "sugar": 19,
+          "jowar": 180,
+          "fRice": 252,
+          "total": 649
+        },
+        {
+          "scheme": "AAY",
+          "date": "17-09-2026",
+          "wheat": 122,
+          "rice": 31,
+          "sugar": 13,
+          "jowar": 127,
+          "fRice": 140,
+          "total": 433
+        },
+        {
+          "scheme": "AAY",
+          "date": "18-09-2026",
+          "wheat": 88,
+          "rice": 0,
+          "sugar": 8,
+          "jowar": 80,
+          "fRice": 112,
+          "total": 288
+        },
+        {
+          "scheme": "AAY",
+          "date": "19-09-2026",
+          "wheat": 110,
+          "rice": 0,
+          "sugar": 11,
+          "jowar": 100,
+          "fRice": 140,
+          "total": 361
+        },
+        {
+          "scheme": "AAY",
+          "date": "20-09-2026",
+          "wheat": 66,
+          "rice": 0,
+          "sugar": 7,
+          "jowar": 60,
+          "fRice": 84,
+          "total": 217
+        },
+        {
+          "scheme": "AAY",
+          "date": "21-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 2,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 37
+        },
+        {
+          "scheme": "AAY",
+          "date": "22-09-2026",
+          "wheat": 77,
+          "rice": 0,
+          "sugar": 3,
+          "jowar": 70,
+          "fRice": 98,
+          "total": 248
+        },
+        {
+          "scheme": "AAY",
+          "date": "24-09-2026",
+          "wheat": 44,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 40,
+          "fRice": 56,
+          "total": 140
+        },
+        {
+          "scheme": "AAY",
+          "date": "26-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 0,
+          "fRice": 12,
+          "total": 23
+        },
+        {
+          "scheme": "AAY",
+          "date": "28-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 10,
+          "fRice": 0,
+          "total": 21
+        }
+      ],
+      "aayTotal": {
+        "wheat": 881,
+        "rice": 31,
+        "sugar": 77,
+        "jowar": 807,
+        "fRice": 1090,
+        "total": 2886
+      },
+      "phhRows": [
+        {
+          "scheme": "PHH",
+          "date": "10-09-2026",
+          "wheat": 7.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 7.5,
+          "fRice": 10,
+          "total": 25
+        },
+        {
+          "scheme": "PHH",
+          "date": "12-09-2026",
+          "wheat": 3,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 3,
+          "fRice": 4,
+          "total": 10
+        },
+        {
+          "scheme": "PHH",
+          "date": "13-09-2026",
+          "wheat": 45,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 45,
+          "fRice": 60,
+          "total": 150
+        },
+        {
+          "scheme": "PHH",
+          "date": "14-09-2026",
+          "wheat": 30,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 30,
+          "fRice": 40,
+          "total": 100
+        },
+        {
+          "scheme": "PHH",
+          "date": "15-09-2026",
+          "wheat": 556.5,
+          "rice": 30,
+          "sugar": 0,
+          "jowar": 576.5,
+          "fRice": 742,
+          "total": 1905
+        },
+        {
+          "scheme": "PHH",
+          "date": "16-09-2026",
+          "wheat": 818,
+          "rice": 37,
+          "sugar": 0,
+          "jowar": 816,
+          "fRice": 1064,
+          "total": 2735
+        },
+        {
+          "scheme": "PHH",
+          "date": "17-09-2026",
+          "wheat": 945.5,
+          "rice": 40,
+          "sugar": 0,
+          "jowar": 958.5,
+          "fRice": 1246,
+          "total": 3190
+        },
+        {
+          "scheme": "PHH",
+          "date": "18-09-2026",
+          "wheat": 567,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 567,
+          "fRice": 756,
+          "total": 1890
+        },
+        {
+          "scheme": "PHH",
+          "date": "19-09-2026",
+          "wheat": 406.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 394.5,
+          "fRice": 534,
+          "total": 1335
+        },
+        {
+          "scheme": "PHH",
+          "date": "20-09-2026",
+          "wheat": 252,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 252,
+          "fRice": 336,
+          "total": 840
+        },
+        {
+          "scheme": "PHH",
+          "date": "21-09-2026",
+          "wheat": 24,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 24,
+          "fRice": 32,
+          "total": 80
+        },
+        {
+          "scheme": "PHH",
+          "date": "22-09-2026",
+          "wheat": 195,
+          "rice": 30,
+          "sugar": 0,
+          "jowar": 215,
+          "fRice": 260,
+          "total": 700
+        },
+        {
+          "scheme": "PHH",
+          "date": "24-09-2026",
+          "wheat": 130.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 130.5,
+          "fRice": 174,
+          "total": 435
+        },
+        {
+          "scheme": "PHH",
+          "date": "26-09-2026",
+          "wheat": 66,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 66,
+          "fRice": 88,
+          "total": 220
+        },
+        {
+          "scheme": "PHH",
+          "date": "29-09-2026",
+          "wheat": 12,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 0,
+          "fRice": 0,
+          "total": 12
+        },
+        {
+          "scheme": "PHH",
+          "date": "30-09-2026",
+          "wheat": 6,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 0,
+          "fRice": 0,
+          "total": 6
+        }
+      ],
+      "phhTotal": {
+        "wheat": 4064.5,
+        "rice": 137,
+        "sugar": 0,
+        "jowar": 4085.5,
+        "fRice": 5346,
+        "total": 13633
+      }
+    }
+  },
+  "150024600322": {
+    "2026-09": {
+      "aayRows": [
+        {
+          "scheme": "AAY",
+          "date": "09-09-2026",
+          "wheat": 110,
+          "rice": 0,
+          "sugar": 12,
+          "jowar": 100,
+          "fRice": 140,
+          "total": 362
+        },
+        {
+          "scheme": "AAY",
+          "date": "10-09-2026",
+          "wheat": 77,
+          "rice": 14,
+          "sugar": 8,
+          "jowar": 91,
+          "fRice": 98,
+          "total": 288
+        },
+        {
+          "scheme": "AAY",
+          "date": "11-09-2026",
+          "wheat": 99,
+          "rice": 0,
+          "sugar": 8,
+          "jowar": 90,
+          "fRice": 126,
+          "total": 323
+        },
+        {
+          "scheme": "AAY",
+          "date": "12-09-2026",
+          "wheat": 55,
+          "rice": 0,
+          "sugar": 5,
+          "jowar": 50,
+          "fRice": 70,
+          "total": 180
+        },
+        {
+          "scheme": "AAY",
+          "date": "13-09-2026",
+          "wheat": 110,
+          "rice": 0,
+          "sugar": 9,
+          "jowar": 100,
+          "fRice": 140,
+          "total": 359
+        },
+        {
+          "scheme": "AAY",
+          "date": "14-09-2026",
+          "wheat": 77,
+          "rice": 0,
+          "sugar": 8,
+          "jowar": 70,
+          "fRice": 98,
+          "total": 253
+        },
+        {
+          "scheme": "AAY",
+          "date": "15-09-2026",
+          "wheat": 99,
+          "rice": 0,
+          "sugar": 9,
+          "jowar": 90,
+          "fRice": 126,
+          "total": 324
+        },
+        {
+          "scheme": "AAY",
+          "date": "16-09-2026",
+          "wheat": 88,
+          "rice": 0,
+          "sugar": 8,
+          "jowar": 80,
+          "fRice": 112,
+          "total": 288
+        },
+        {
+          "scheme": "AAY",
+          "date": "17-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 1,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 36
+        },
+        {
+          "scheme": "AAY",
+          "date": "19-09-2026",
+          "wheat": 22,
+          "rice": 0,
+          "sugar": 2,
+          "jowar": 20,
+          "fRice": 28,
+          "total": 72
+        },
+        {
+          "scheme": "AAY",
+          "date": "20-09-2026",
+          "wheat": 33,
+          "rice": 0,
+          "sugar": 2,
+          "jowar": 30,
+          "fRice": 42,
+          "total": 107
+        },
+        {
+          "scheme": "AAY",
+          "date": "21-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 1,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 36
+        },
+        {
+          "scheme": "AAY",
+          "date": "22-09-2026",
+          "wheat": 11,
+          "rice": 20,
+          "sugar": 2,
+          "jowar": 25,
+          "fRice": 14,
+          "total": 72
+        },
+        {
+          "scheme": "AAY",
+          "date": "23-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 1,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 36
+        },
+        {
+          "scheme": "AAY",
+          "date": "27-09-2026",
+          "wheat": 33,
+          "rice": 0,
+          "sugar": 3,
+          "jowar": 30,
+          "fRice": 42,
+          "total": 108
+        },
+        {
+          "scheme": "AAY",
+          "date": "28-09-2026",
+          "wheat": 22,
+          "rice": 0,
+          "sugar": 3,
+          "jowar": 20,
+          "fRice": 28,
+          "total": 73
+        }
+      ],
+      "aayTotal": {
+        "wheat": 869,
+        "rice": 34,
+        "sugar": 82,
+        "jowar": 826,
+        "fRice": 1106,
+        "total": 2917
+      },
+      "phhRows": [
+        {
+          "scheme": "PHH",
+          "date": "05-09-2026",
+          "wheat": 10.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 10.5,
+          "fRice": 0,
+          "total": 21
+        },
+        {
+          "scheme": "PHH",
+          "date": "08-09-2026",
+          "wheat": 0,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 0,
+          "fRice": 14,
+          "total": 14
+        },
+        {
+          "scheme": "PHH",
+          "date": "09-09-2026",
+          "wheat": 79.5,
+          "rice": 24,
+          "sugar": 0,
+          "jowar": 95.5,
+          "fRice": 106,
+          "total": 305
+        },
+        {
+          "scheme": "PHH",
+          "date": "10-09-2026",
+          "wheat": 265.5,
+          "rice": 12,
+          "sugar": 0,
+          "jowar": 273.5,
+          "fRice": 354,
+          "total": 905
+        },
+        {
+          "scheme": "PHH",
+          "date": "11-09-2026",
+          "wheat": 255,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 255,
+          "fRice": 340,
+          "total": 850
+        },
+        {
+          "scheme": "PHH",
+          "date": "12-09-2026",
+          "wheat": 238.5,
+          "rice": 18,
+          "sugar": 0,
+          "jowar": 249.5,
+          "fRice": 314,
+          "total": 820
+        },
+        {
+          "scheme": "PHH",
+          "date": "13-09-2026",
+          "wheat": 231,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 231,
+          "fRice": 308,
+          "total": 770
+        },
+        {
+          "scheme": "PHH",
+          "date": "14-09-2026",
+          "wheat": 163.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 163.5,
+          "fRice": 218,
+          "total": 545
+        },
+        {
+          "scheme": "PHH",
+          "date": "15-09-2026",
+          "wheat": 145.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 145.5,
+          "fRice": 194,
+          "total": 485
+        },
+        {
+          "scheme": "PHH",
+          "date": "16-09-2026",
+          "wheat": 114,
+          "rice": 12,
+          "sugar": 0,
+          "jowar": 122,
+          "fRice": 152,
+          "total": 400
+        },
+        {
+          "scheme": "PHH",
+          "date": "17-09-2026",
+          "wheat": 63,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 63,
+          "fRice": 84,
+          "total": 210
+        },
+        {
+          "scheme": "PHH",
+          "date": "18-09-2026",
+          "wheat": 45,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 45,
+          "fRice": 60,
+          "total": 150
+        },
+        {
+          "scheme": "PHH",
+          "date": "19-09-2026",
+          "wheat": 78,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 78,
+          "fRice": 104,
+          "total": 260
+        },
+        {
+          "scheme": "PHH",
+          "date": "20-09-2026",
+          "wheat": 61.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 61.5,
+          "fRice": 82,
+          "total": 205
+        },
+        {
+          "scheme": "PHH",
+          "date": "21-09-2026",
+          "wheat": 46.5,
+          "rice": 9,
+          "sugar": 0,
+          "jowar": 52.5,
+          "fRice": 62,
+          "total": 170
+        },
+        {
+          "scheme": "PHH",
+          "date": "22-09-2026",
+          "wheat": 27,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 27,
+          "fRice": 36,
+          "total": 90
+        },
+        {
+          "scheme": "PHH",
+          "date": "23-09-2026",
+          "wheat": 70.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 70.5,
+          "fRice": 94,
+          "total": 235
+        },
+        {
+          "scheme": "PHH",
+          "date": "24-09-2026",
+          "wheat": 31.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 31.5,
+          "fRice": 42,
+          "total": 105
+        },
+        {
+          "scheme": "PHH",
+          "date": "25-09-2026",
+          "wheat": 27,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 27,
+          "fRice": 36,
+          "total": 90
+        },
+        {
+          "scheme": "PHH",
+          "date": "26-09-2026",
+          "wheat": 46.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 46.5,
+          "fRice": 62,
+          "total": 155
+        },
+        {
+          "scheme": "PHH",
+          "date": "27-09-2026",
+          "wheat": 40.5,
+          "rice": 15,
+          "sugar": 0,
+          "jowar": 50.5,
+          "fRice": 54,
+          "total": 160
+        },
+        {
+          "scheme": "PHH",
+          "date": "28-09-2026",
+          "wheat": 24,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 24,
+          "fRice": 32,
+          "total": 80
+        },
+        {
+          "scheme": "PHH",
+          "date": "29-09-2026",
+          "wheat": 3,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 3,
+          "fRice": 4,
+          "total": 10
+        },
+        {
+          "scheme": "PHH",
+          "date": "30-09-2026",
+          "wheat": 27,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 21,
+          "fRice": 36,
+          "total": 84
+        }
+      ],
+      "phhTotal": {
+        "wheat": 2094,
+        "rice": 90,
+        "sugar": 0,
+        "jowar": 2147,
+        "fRice": 2788,
+        "total": 7119
+      }
+    },
+    "2026-08": {
+      "aayRows": [
+        {
+          "scheme": "AAY",
+          "date": "09-09-2026",
+          "wheat": 110,
+          "rice": 0,
+          "sugar": 12,
+          "jowar": 100,
+          "fRice": 140,
+          "total": 362
+        },
+        {
+          "scheme": "AAY",
+          "date": "10-09-2026",
+          "wheat": 77,
+          "rice": 14,
+          "sugar": 8,
+          "jowar": 91,
+          "fRice": 98,
+          "total": 288
+        },
+        {
+          "scheme": "AAY",
+          "date": "11-09-2026",
+          "wheat": 99,
+          "rice": 0,
+          "sugar": 8,
+          "jowar": 90,
+          "fRice": 126,
+          "total": 323
+        },
+        {
+          "scheme": "AAY",
+          "date": "12-09-2026",
+          "wheat": 55,
+          "rice": 0,
+          "sugar": 5,
+          "jowar": 50,
+          "fRice": 70,
+          "total": 180
+        },
+        {
+          "scheme": "AAY",
+          "date": "13-09-2026",
+          "wheat": 110,
+          "rice": 0,
+          "sugar": 9,
+          "jowar": 100,
+          "fRice": 140,
+          "total": 359
+        },
+        {
+          "scheme": "AAY",
+          "date": "14-09-2026",
+          "wheat": 77,
+          "rice": 0,
+          "sugar": 8,
+          "jowar": 70,
+          "fRice": 98,
+          "total": 253
+        },
+        {
+          "scheme": "AAY",
+          "date": "15-09-2026",
+          "wheat": 99,
+          "rice": 0,
+          "sugar": 9,
+          "jowar": 90,
+          "fRice": 126,
+          "total": 324
+        },
+        {
+          "scheme": "AAY",
+          "date": "16-09-2026",
+          "wheat": 88,
+          "rice": 0,
+          "sugar": 8,
+          "jowar": 80,
+          "fRice": 112,
+          "total": 288
+        },
+        {
+          "scheme": "AAY",
+          "date": "17-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 1,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 36
+        },
+        {
+          "scheme": "AAY",
+          "date": "19-09-2026",
+          "wheat": 22,
+          "rice": 0,
+          "sugar": 2,
+          "jowar": 20,
+          "fRice": 28,
+          "total": 72
+        },
+        {
+          "scheme": "AAY",
+          "date": "20-09-2026",
+          "wheat": 33,
+          "rice": 0,
+          "sugar": 2,
+          "jowar": 30,
+          "fRice": 42,
+          "total": 107
+        },
+        {
+          "scheme": "AAY",
+          "date": "21-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 1,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 36
+        },
+        {
+          "scheme": "AAY",
+          "date": "22-09-2026",
+          "wheat": 11,
+          "rice": 20,
+          "sugar": 2,
+          "jowar": 25,
+          "fRice": 14,
+          "total": 72
+        },
+        {
+          "scheme": "AAY",
+          "date": "23-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 1,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 36
+        },
+        {
+          "scheme": "AAY",
+          "date": "27-09-2026",
+          "wheat": 33,
+          "rice": 0,
+          "sugar": 3,
+          "jowar": 30,
+          "fRice": 42,
+          "total": 108
+        },
+        {
+          "scheme": "AAY",
+          "date": "28-09-2026",
+          "wheat": 22,
+          "rice": 0,
+          "sugar": 3,
+          "jowar": 20,
+          "fRice": 28,
+          "total": 73
+        }
+      ],
+      "aayTotal": {
+        "wheat": 869,
+        "rice": 34,
+        "sugar": 82,
+        "jowar": 826,
+        "fRice": 1106,
+        "total": 2917
+      },
+      "phhRows": [
+        {
+          "scheme": "PHH",
+          "date": "05-09-2026",
+          "wheat": 10.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 10.5,
+          "fRice": 0,
+          "total": 21
+        },
+        {
+          "scheme": "PHH",
+          "date": "08-09-2026",
+          "wheat": 0,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 0,
+          "fRice": 14,
+          "total": 14
+        },
+        {
+          "scheme": "PHH",
+          "date": "09-09-2026",
+          "wheat": 79.5,
+          "rice": 24,
+          "sugar": 0,
+          "jowar": 95.5,
+          "fRice": 106,
+          "total": 305
+        },
+        {
+          "scheme": "PHH",
+          "date": "10-09-2026",
+          "wheat": 265.5,
+          "rice": 12,
+          "sugar": 0,
+          "jowar": 273.5,
+          "fRice": 354,
+          "total": 905
+        },
+        {
+          "scheme": "PHH",
+          "date": "11-09-2026",
+          "wheat": 255,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 255,
+          "fRice": 340,
+          "total": 850
+        },
+        {
+          "scheme": "PHH",
+          "date": "12-09-2026",
+          "wheat": 238.5,
+          "rice": 18,
+          "sugar": 0,
+          "jowar": 249.5,
+          "fRice": 314,
+          "total": 820
+        },
+        {
+          "scheme": "PHH",
+          "date": "13-09-2026",
+          "wheat": 231,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 231,
+          "fRice": 308,
+          "total": 770
+        },
+        {
+          "scheme": "PHH",
+          "date": "14-09-2026",
+          "wheat": 163.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 163.5,
+          "fRice": 218,
+          "total": 545
+        },
+        {
+          "scheme": "PHH",
+          "date": "15-09-2026",
+          "wheat": 145.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 145.5,
+          "fRice": 194,
+          "total": 485
+        },
+        {
+          "scheme": "PHH",
+          "date": "16-09-2026",
+          "wheat": 114,
+          "rice": 12,
+          "sugar": 0,
+          "jowar": 122,
+          "fRice": 152,
+          "total": 400
+        },
+        {
+          "scheme": "PHH",
+          "date": "17-09-2026",
+          "wheat": 63,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 63,
+          "fRice": 84,
+          "total": 210
+        },
+        {
+          "scheme": "PHH",
+          "date": "18-09-2026",
+          "wheat": 45,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 45,
+          "fRice": 60,
+          "total": 150
+        },
+        {
+          "scheme": "PHH",
+          "date": "19-09-2026",
+          "wheat": 78,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 78,
+          "fRice": 104,
+          "total": 260
+        },
+        {
+          "scheme": "PHH",
+          "date": "20-09-2026",
+          "wheat": 61.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 61.5,
+          "fRice": 82,
+          "total": 205
+        },
+        {
+          "scheme": "PHH",
+          "date": "21-09-2026",
+          "wheat": 46.5,
+          "rice": 9,
+          "sugar": 0,
+          "jowar": 52.5,
+          "fRice": 62,
+          "total": 170
+        },
+        {
+          "scheme": "PHH",
+          "date": "22-09-2026",
+          "wheat": 27,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 27,
+          "fRice": 36,
+          "total": 90
+        },
+        {
+          "scheme": "PHH",
+          "date": "23-09-2026",
+          "wheat": 70.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 70.5,
+          "fRice": 94,
+          "total": 235
+        },
+        {
+          "scheme": "PHH",
+          "date": "24-09-2026",
+          "wheat": 31.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 31.5,
+          "fRice": 42,
+          "total": 105
+        },
+        {
+          "scheme": "PHH",
+          "date": "25-09-2026",
+          "wheat": 27,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 27,
+          "fRice": 36,
+          "total": 90
+        },
+        {
+          "scheme": "PHH",
+          "date": "26-09-2026",
+          "wheat": 46.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 46.5,
+          "fRice": 62,
+          "total": 155
+        },
+        {
+          "scheme": "PHH",
+          "date": "27-09-2026",
+          "wheat": 40.5,
+          "rice": 15,
+          "sugar": 0,
+          "jowar": 50.5,
+          "fRice": 54,
+          "total": 160
+        },
+        {
+          "scheme": "PHH",
+          "date": "28-09-2026",
+          "wheat": 24,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 24,
+          "fRice": 32,
+          "total": 80
+        },
+        {
+          "scheme": "PHH",
+          "date": "29-09-2026",
+          "wheat": 3,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 3,
+          "fRice": 4,
+          "total": 10
+        },
+        {
+          "scheme": "PHH",
+          "date": "30-09-2026",
+          "wheat": 27,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 21,
+          "fRice": 36,
+          "total": 84
+        }
+      ],
+      "phhTotal": {
+        "wheat": 2094,
+        "rice": 90,
+        "sugar": 0,
+        "jowar": 2147,
+        "fRice": 2788,
+        "total": 7119
+      }
+    }
+  },
+  "150024600323": {
+    "2026-09": {
+      "aayRows": [
+        {
+          "scheme": "AAY",
+          "date": "10-09-2026",
+          "wheat": 121,
+          "rice": 0,
+          "sugar": 11,
+          "jowar": 110,
+          "fRice": 154,
+          "total": 396
+        },
+        {
+          "scheme": "AAY",
+          "date": "11-09-2026",
+          "wheat": 66,
+          "rice": 0,
+          "sugar": 5,
+          "jowar": 60,
+          "fRice": 84,
+          "total": 215
+        },
+        {
+          "scheme": "AAY",
+          "date": "12-09-2026",
+          "wheat": 99,
+          "rice": 0,
+          "sugar": 10,
+          "jowar": 90,
+          "fRice": 126,
+          "total": 325
+        },
+        {
+          "scheme": "AAY",
+          "date": "13-09-2026",
+          "wheat": 88,
+          "rice": 0,
+          "sugar": 8,
+          "jowar": 80,
+          "fRice": 112,
+          "total": 288
+        },
+        {
+          "scheme": "AAY",
+          "date": "14-09-2026",
+          "wheat": 88,
+          "rice": 0,
+          "sugar": 8,
+          "jowar": 80,
+          "fRice": 112,
+          "total": 288
+        },
+        {
+          "scheme": "AAY",
+          "date": "15-09-2026",
+          "wheat": 88,
+          "rice": 0,
+          "sugar": 8,
+          "jowar": 80,
+          "fRice": 112,
+          "total": 288
+        },
+        {
+          "scheme": "AAY",
+          "date": "16-09-2026",
+          "wheat": 55,
+          "rice": 0,
+          "sugar": 5,
+          "jowar": 50,
+          "fRice": 70,
+          "total": 180
+        },
+        {
+          "scheme": "AAY",
+          "date": "18-09-2026",
+          "wheat": 33,
+          "rice": 0,
+          "sugar": 3,
+          "jowar": 30,
+          "fRice": 42,
+          "total": 108
+        },
+        {
+          "scheme": "AAY",
+          "date": "23-09-2026",
+          "wheat": 22,
+          "rice": 0,
+          "sugar": 2,
+          "jowar": 20,
+          "fRice": 28,
+          "total": 72
+        },
+        {
+          "scheme": "AAY",
+          "date": "27-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 1,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 36
+        }
+      ],
+      "aayTotal": {
+        "wheat": 671,
+        "rice": 0,
+        "sugar": 61,
+        "jowar": 610,
+        "fRice": 854,
+        "total": 2196
+      },
+      "phhRows": [
+        {
+          "scheme": "PHH",
+          "date": "09-09-2026",
+          "wheat": 18,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 18,
+          "fRice": 24,
+          "total": 60
+        },
+        {
+          "scheme": "PHH",
+          "date": "10-09-2026",
+          "wheat": 186,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 186,
+          "fRice": 248,
+          "total": 620
+        },
+        {
+          "scheme": "PHH",
+          "date": "11-09-2026",
+          "wheat": 360,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 360,
+          "fRice": 480,
+          "total": 1200
+        },
+        {
+          "scheme": "PHH",
+          "date": "12-09-2026",
+          "wheat": 372,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 372,
+          "fRice": 496,
+          "total": 1240
+        },
+        {
+          "scheme": "PHH",
+          "date": "13-09-2026",
+          "wheat": 409.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 409.5,
+          "fRice": 546,
+          "total": 1365
+        },
+        {
+          "scheme": "PHH",
+          "date": "14-09-2026",
+          "wheat": 240,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 240,
+          "fRice": 320,
+          "total": 800
+        },
+        {
+          "scheme": "PHH",
+          "date": "15-09-2026",
+          "wheat": 274.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 274.5,
+          "fRice": 366,
+          "total": 915
+        },
+        {
+          "scheme": "PHH",
+          "date": "16-09-2026",
+          "wheat": 234,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 234,
+          "fRice": 312,
+          "total": 780
+        },
+        {
+          "scheme": "PHH",
+          "date": "17-09-2026",
+          "wheat": 130.5,
+          "rice": 15,
+          "sugar": 0,
+          "jowar": 140.5,
+          "fRice": 174,
+          "total": 460
+        },
+        {
+          "scheme": "PHH",
+          "date": "18-09-2026",
+          "wheat": 82.5,
+          "rice": 12,
+          "sugar": 0,
+          "jowar": 90.5,
+          "fRice": 110,
+          "total": 295
+        },
+        {
+          "scheme": "PHH",
+          "date": "19-09-2026",
+          "wheat": 22.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 22.5,
+          "fRice": 30,
+          "total": 75
+        },
+        {
+          "scheme": "PHH",
+          "date": "20-09-2026",
+          "wheat": 64.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 64.5,
+          "fRice": 86,
+          "total": 215
+        },
+        {
+          "scheme": "PHH",
+          "date": "21-09-2026",
+          "wheat": 28.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 28.5,
+          "fRice": 38,
+          "total": 95
+        },
+        {
+          "scheme": "PHH",
+          "date": "23-09-2026",
+          "wheat": 36,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 36,
+          "fRice": 48,
+          "total": 120
+        },
+        {
+          "scheme": "PHH",
+          "date": "24-09-2026",
+          "wheat": 9,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 9,
+          "fRice": 12,
+          "total": 30
+        },
+        {
+          "scheme": "PHH",
+          "date": "26-09-2026",
+          "wheat": 4.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 4.5,
+          "fRice": 6,
+          "total": 15
+        },
+        {
+          "scheme": "PHH",
+          "date": "27-09-2026",
+          "wheat": 0,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 6,
+          "fRice": 0,
+          "total": 6
+        },
+        {
+          "scheme": "PHH",
+          "date": "28-09-2026",
+          "wheat": 6,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 6,
+          "fRice": 8,
+          "total": 20
+        },
+        {
+          "scheme": "PHH",
+          "date": "30-09-2026",
+          "wheat": 12,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 12,
+          "fRice": 16,
+          "total": 40
+        }
+      ],
+      "phhTotal": {
+        "wheat": 2490,
+        "rice": 27,
+        "sugar": 0,
+        "jowar": 2514,
+        "fRice": 3320,
+        "total": 8351
+      }
+    },
+    "2026-08": {
+      "aayRows": [
+        {
+          "scheme": "AAY",
+          "date": "10-09-2026",
+          "wheat": 121,
+          "rice": 0,
+          "sugar": 11,
+          "jowar": 110,
+          "fRice": 154,
+          "total": 396
+        },
+        {
+          "scheme": "AAY",
+          "date": "11-09-2026",
+          "wheat": 66,
+          "rice": 0,
+          "sugar": 5,
+          "jowar": 60,
+          "fRice": 84,
+          "total": 215
+        },
+        {
+          "scheme": "AAY",
+          "date": "12-09-2026",
+          "wheat": 99,
+          "rice": 0,
+          "sugar": 10,
+          "jowar": 90,
+          "fRice": 126,
+          "total": 325
+        },
+        {
+          "scheme": "AAY",
+          "date": "13-09-2026",
+          "wheat": 88,
+          "rice": 0,
+          "sugar": 8,
+          "jowar": 80,
+          "fRice": 112,
+          "total": 288
+        },
+        {
+          "scheme": "AAY",
+          "date": "14-09-2026",
+          "wheat": 88,
+          "rice": 0,
+          "sugar": 8,
+          "jowar": 80,
+          "fRice": 112,
+          "total": 288
+        },
+        {
+          "scheme": "AAY",
+          "date": "15-09-2026",
+          "wheat": 88,
+          "rice": 0,
+          "sugar": 8,
+          "jowar": 80,
+          "fRice": 112,
+          "total": 288
+        },
+        {
+          "scheme": "AAY",
+          "date": "16-09-2026",
+          "wheat": 55,
+          "rice": 0,
+          "sugar": 5,
+          "jowar": 50,
+          "fRice": 70,
+          "total": 180
+        },
+        {
+          "scheme": "AAY",
+          "date": "18-09-2026",
+          "wheat": 33,
+          "rice": 0,
+          "sugar": 3,
+          "jowar": 30,
+          "fRice": 42,
+          "total": 108
+        },
+        {
+          "scheme": "AAY",
+          "date": "23-09-2026",
+          "wheat": 22,
+          "rice": 0,
+          "sugar": 2,
+          "jowar": 20,
+          "fRice": 28,
+          "total": 72
+        },
+        {
+          "scheme": "AAY",
+          "date": "27-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 1,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 36
+        }
+      ],
+      "aayTotal": {
+        "wheat": 671,
+        "rice": 0,
+        "sugar": 61,
+        "jowar": 610,
+        "fRice": 854,
+        "total": 2196
+      },
+      "phhRows": [
+        {
+          "scheme": "PHH",
+          "date": "09-09-2026",
+          "wheat": 18,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 18,
+          "fRice": 24,
+          "total": 60
+        },
+        {
+          "scheme": "PHH",
+          "date": "10-09-2026",
+          "wheat": 186,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 186,
+          "fRice": 248,
+          "total": 620
+        },
+        {
+          "scheme": "PHH",
+          "date": "11-09-2026",
+          "wheat": 360,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 360,
+          "fRice": 480,
+          "total": 1200
+        },
+        {
+          "scheme": "PHH",
+          "date": "12-09-2026",
+          "wheat": 372,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 372,
+          "fRice": 496,
+          "total": 1240
+        },
+        {
+          "scheme": "PHH",
+          "date": "13-09-2026",
+          "wheat": 409.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 409.5,
+          "fRice": 546,
+          "total": 1365
+        },
+        {
+          "scheme": "PHH",
+          "date": "14-09-2026",
+          "wheat": 240,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 240,
+          "fRice": 320,
+          "total": 800
+        },
+        {
+          "scheme": "PHH",
+          "date": "15-09-2026",
+          "wheat": 274.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 274.5,
+          "fRice": 366,
+          "total": 915
+        },
+        {
+          "scheme": "PHH",
+          "date": "16-09-2026",
+          "wheat": 234,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 234,
+          "fRice": 312,
+          "total": 780
+        },
+        {
+          "scheme": "PHH",
+          "date": "17-09-2026",
+          "wheat": 130.5,
+          "rice": 15,
+          "sugar": 0,
+          "jowar": 140.5,
+          "fRice": 174,
+          "total": 460
+        },
+        {
+          "scheme": "PHH",
+          "date": "18-09-2026",
+          "wheat": 82.5,
+          "rice": 12,
+          "sugar": 0,
+          "jowar": 90.5,
+          "fRice": 110,
+          "total": 295
+        },
+        {
+          "scheme": "PHH",
+          "date": "19-09-2026",
+          "wheat": 22.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 22.5,
+          "fRice": 30,
+          "total": 75
+        },
+        {
+          "scheme": "PHH",
+          "date": "20-09-2026",
+          "wheat": 64.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 64.5,
+          "fRice": 86,
+          "total": 215
+        },
+        {
+          "scheme": "PHH",
+          "date": "21-09-2026",
+          "wheat": 28.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 28.5,
+          "fRice": 38,
+          "total": 95
+        },
+        {
+          "scheme": "PHH",
+          "date": "23-09-2026",
+          "wheat": 36,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 36,
+          "fRice": 48,
+          "total": 120
+        },
+        {
+          "scheme": "PHH",
+          "date": "24-09-2026",
+          "wheat": 9,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 9,
+          "fRice": 12,
+          "total": 30
+        },
+        {
+          "scheme": "PHH",
+          "date": "26-09-2026",
+          "wheat": 4.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 4.5,
+          "fRice": 6,
+          "total": 15
+        },
+        {
+          "scheme": "PHH",
+          "date": "27-09-2026",
+          "wheat": 0,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 6,
+          "fRice": 0,
+          "total": 6
+        },
+        {
+          "scheme": "PHH",
+          "date": "28-09-2026",
+          "wheat": 6,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 6,
+          "fRice": 8,
+          "total": 20
+        },
+        {
+          "scheme": "PHH",
+          "date": "30-09-2026",
+          "wheat": 12,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 12,
+          "fRice": 16,
+          "total": 40
+        }
+      ],
+      "phhTotal": {
+        "wheat": 2490,
+        "rice": 27,
+        "sugar": 0,
+        "jowar": 2514,
+        "fRice": 3320,
+        "total": 8351
+      }
+    }
+  },
+  "150024600324": {
+    "2026-09": {
+      "aayRows": [
+        {
+          "scheme": "AAY",
+          "date": "12-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 1,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 36
+        },
+        {
+          "scheme": "AAY",
+          "date": "15-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 1,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 36
+        },
+        {
+          "scheme": "AAY",
+          "date": "16-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 1,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 36
+        },
+        {
+          "scheme": "AAY",
+          "date": "17-09-2026",
+          "wheat": 74,
+          "rice": 20,
+          "sugar": 9,
+          "jowar": 60,
+          "fRice": 84,
+          "total": 247
+        },
+        {
+          "scheme": "AAY",
+          "date": "18-09-2026",
+          "wheat": 66,
+          "rice": 0,
+          "sugar": 6,
+          "jowar": 60,
+          "fRice": 84,
+          "total": 216
+        },
+        {
+          "scheme": "AAY",
+          "date": "19-09-2026",
+          "wheat": 88,
+          "rice": 0,
+          "sugar": 8,
+          "jowar": 80,
+          "fRice": 112,
+          "total": 288
+        },
+        {
+          "scheme": "AAY",
+          "date": "20-09-2026",
+          "wheat": 99,
+          "rice": 0,
+          "sugar": 8,
+          "jowar": 90,
+          "fRice": 126,
+          "total": 323
+        },
+        {
+          "scheme": "AAY",
+          "date": "21-09-2026",
+          "wheat": 88,
+          "rice": 0,
+          "sugar": 8,
+          "jowar": 80,
+          "fRice": 112,
+          "total": 288
+        },
+        {
+          "scheme": "AAY",
+          "date": "22-09-2026",
+          "wheat": 88,
+          "rice": 0,
+          "sugar": 8,
+          "jowar": 80,
+          "fRice": 112,
+          "total": 288
+        },
+        {
+          "scheme": "AAY",
+          "date": "23-09-2026",
+          "wheat": 33,
+          "rice": 0,
+          "sugar": 3,
+          "jowar": 30,
+          "fRice": 42,
+          "total": 108
+        },
+        {
+          "scheme": "AAY",
+          "date": "24-09-2026",
+          "wheat": 22,
+          "rice": 0,
+          "sugar": 2,
+          "jowar": 20,
+          "fRice": 28,
+          "total": 72
+        },
+        {
+          "scheme": "AAY",
+          "date": "25-09-2026",
+          "wheat": 0,
+          "rice": 0,
+          "sugar": 1,
+          "jowar": 0,
+          "fRice": 0,
+          "total": 1
+        },
+        {
+          "scheme": "AAY",
+          "date": "26-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 1,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 36
+        },
+        {
+          "scheme": "AAY",
+          "date": "27-09-2026",
+          "wheat": 22,
+          "rice": 0,
+          "sugar": 1,
+          "jowar": 20,
+          "fRice": 28,
+          "total": 71
+        },
+        {
+          "scheme": "AAY",
+          "date": "29-09-2026",
+          "wheat": 22,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 20,
+          "fRice": 28,
+          "total": 70
+        }
+      ],
+      "aayTotal": {
+        "wheat": 646,
+        "rice": 20,
+        "sugar": 58,
+        "jowar": 580,
+        "fRice": 812,
+        "total": 2116
+      },
+      "phhRows": [
+        {
+          "scheme": "PHH",
+          "date": "06-09-2026",
+          "wheat": 4.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 4.5,
+          "fRice": 6,
+          "total": 15
+        },
+        {
+          "scheme": "PHH",
+          "date": "10-09-2026",
+          "wheat": 7.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 7.5,
+          "fRice": 10,
+          "total": 25
+        },
+        {
+          "scheme": "PHH",
+          "date": "12-09-2026",
+          "wheat": 49.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 49.5,
+          "fRice": 66,
+          "total": 165
+        },
+        {
+          "scheme": "PHH",
+          "date": "13-09-2026",
+          "wheat": 51,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 51,
+          "fRice": 68,
+          "total": 170
+        },
+        {
+          "scheme": "PHH",
+          "date": "15-09-2026",
+          "wheat": 63,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 63,
+          "fRice": 84,
+          "total": 210
+        },
+        {
+          "scheme": "PHH",
+          "date": "16-09-2026",
+          "wheat": 76.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 76.5,
+          "fRice": 102,
+          "total": 255
+        },
+        {
+          "scheme": "PHH",
+          "date": "17-09-2026",
+          "wheat": 217.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 217.5,
+          "fRice": 290,
+          "total": 725
+        },
+        {
+          "scheme": "PHH",
+          "date": "18-09-2026",
+          "wheat": 240,
+          "rice": 6,
+          "sugar": 0,
+          "jowar": 244,
+          "fRice": 320,
+          "total": 810
+        },
+        {
+          "scheme": "PHH",
+          "date": "19-09-2026",
+          "wheat": 516,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 516,
+          "fRice": 688,
+          "total": 1720
+        },
+        {
+          "scheme": "PHH",
+          "date": "20-09-2026",
+          "wheat": 367.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 367.5,
+          "fRice": 490,
+          "total": 1225
+        },
+        {
+          "scheme": "PHH",
+          "date": "21-09-2026",
+          "wheat": 186,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 186,
+          "fRice": 248,
+          "total": 620
+        },
+        {
+          "scheme": "PHH",
+          "date": "22-09-2026",
+          "wheat": 268.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 268.5,
+          "fRice": 358,
+          "total": 895
+        },
+        {
+          "scheme": "PHH",
+          "date": "23-09-2026",
+          "wheat": 163.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 163.5,
+          "fRice": 218,
+          "total": 545
+        },
+        {
+          "scheme": "PHH",
+          "date": "24-09-2026",
+          "wheat": 244.5,
+          "rice": 6,
+          "sugar": 0,
+          "jowar": 238.5,
+          "fRice": 316,
+          "total": 805
+        },
+        {
+          "scheme": "PHH",
+          "date": "25-09-2026",
+          "wheat": 6,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 6,
+          "fRice": 8,
+          "total": 20
+        },
+        {
+          "scheme": "PHH",
+          "date": "26-09-2026",
+          "wheat": 193.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 193.5,
+          "fRice": 258,
+          "total": 645
+        },
+        {
+          "scheme": "PHH",
+          "date": "27-09-2026",
+          "wheat": 61.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 61.5,
+          "fRice": 82,
+          "total": 205
+        },
+        {
+          "scheme": "PHH",
+          "date": "28-09-2026",
+          "wheat": 52.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 52.5,
+          "fRice": 70,
+          "total": 175
+        },
+        {
+          "scheme": "PHH",
+          "date": "29-09-2026",
+          "wheat": 84.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 103,
+          "fRice": 135,
+          "total": 322.5
+        },
+        {
+          "scheme": "PHH",
+          "date": "30-09-2026",
+          "wheat": 243.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 234.5,
+          "fRice": 291,
+          "total": 769
+        }
+      ],
+      "phhTotal": {
+        "wheat": 3097,
+        "rice": 12,
+        "sugar": 0,
+        "jowar": 3104.5,
+        "fRice": 4108,
+        "total": 10321.5
+      }
+    },
+    "2026-08": {
+      "aayRows": [
+        {
+          "scheme": "AAY",
+          "date": "12-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 1,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 36
+        },
+        {
+          "scheme": "AAY",
+          "date": "15-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 1,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 36
+        },
+        {
+          "scheme": "AAY",
+          "date": "16-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 1,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 36
+        },
+        {
+          "scheme": "AAY",
+          "date": "17-09-2026",
+          "wheat": 74,
+          "rice": 20,
+          "sugar": 9,
+          "jowar": 60,
+          "fRice": 84,
+          "total": 247
+        },
+        {
+          "scheme": "AAY",
+          "date": "18-09-2026",
+          "wheat": 66,
+          "rice": 0,
+          "sugar": 6,
+          "jowar": 60,
+          "fRice": 84,
+          "total": 216
+        },
+        {
+          "scheme": "AAY",
+          "date": "19-09-2026",
+          "wheat": 88,
+          "rice": 0,
+          "sugar": 8,
+          "jowar": 80,
+          "fRice": 112,
+          "total": 288
+        },
+        {
+          "scheme": "AAY",
+          "date": "20-09-2026",
+          "wheat": 99,
+          "rice": 0,
+          "sugar": 8,
+          "jowar": 90,
+          "fRice": 126,
+          "total": 323
+        },
+        {
+          "scheme": "AAY",
+          "date": "21-09-2026",
+          "wheat": 88,
+          "rice": 0,
+          "sugar": 8,
+          "jowar": 80,
+          "fRice": 112,
+          "total": 288
+        },
+        {
+          "scheme": "AAY",
+          "date": "22-09-2026",
+          "wheat": 88,
+          "rice": 0,
+          "sugar": 8,
+          "jowar": 80,
+          "fRice": 112,
+          "total": 288
+        },
+        {
+          "scheme": "AAY",
+          "date": "23-09-2026",
+          "wheat": 33,
+          "rice": 0,
+          "sugar": 3,
+          "jowar": 30,
+          "fRice": 42,
+          "total": 108
+        },
+        {
+          "scheme": "AAY",
+          "date": "24-09-2026",
+          "wheat": 22,
+          "rice": 0,
+          "sugar": 2,
+          "jowar": 20,
+          "fRice": 28,
+          "total": 72
+        },
+        {
+          "scheme": "AAY",
+          "date": "25-09-2026",
+          "wheat": 0,
+          "rice": 0,
+          "sugar": 1,
+          "jowar": 0,
+          "fRice": 0,
+          "total": 1
+        },
+        {
+          "scheme": "AAY",
+          "date": "26-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 1,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 36
+        },
+        {
+          "scheme": "AAY",
+          "date": "27-09-2026",
+          "wheat": 22,
+          "rice": 0,
+          "sugar": 1,
+          "jowar": 20,
+          "fRice": 28,
+          "total": 71
+        },
+        {
+          "scheme": "AAY",
+          "date": "29-09-2026",
+          "wheat": 22,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 20,
+          "fRice": 28,
+          "total": 70
+        }
+      ],
+      "aayTotal": {
+        "wheat": 646,
+        "rice": 20,
+        "sugar": 58,
+        "jowar": 580,
+        "fRice": 812,
+        "total": 2116
+      },
+      "phhRows": [
+        {
+          "scheme": "PHH",
+          "date": "06-09-2026",
+          "wheat": 4.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 4.5,
+          "fRice": 6,
+          "total": 15
+        },
+        {
+          "scheme": "PHH",
+          "date": "10-09-2026",
+          "wheat": 7.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 7.5,
+          "fRice": 10,
+          "total": 25
+        },
+        {
+          "scheme": "PHH",
+          "date": "12-09-2026",
+          "wheat": 49.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 49.5,
+          "fRice": 66,
+          "total": 165
+        },
+        {
+          "scheme": "PHH",
+          "date": "13-09-2026",
+          "wheat": 51,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 51,
+          "fRice": 68,
+          "total": 170
+        },
+        {
+          "scheme": "PHH",
+          "date": "15-09-2026",
+          "wheat": 63,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 63,
+          "fRice": 84,
+          "total": 210
+        },
+        {
+          "scheme": "PHH",
+          "date": "16-09-2026",
+          "wheat": 76.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 76.5,
+          "fRice": 102,
+          "total": 255
+        },
+        {
+          "scheme": "PHH",
+          "date": "17-09-2026",
+          "wheat": 217.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 217.5,
+          "fRice": 290,
+          "total": 725
+        },
+        {
+          "scheme": "PHH",
+          "date": "18-09-2026",
+          "wheat": 240,
+          "rice": 6,
+          "sugar": 0,
+          "jowar": 244,
+          "fRice": 320,
+          "total": 810
+        },
+        {
+          "scheme": "PHH",
+          "date": "19-09-2026",
+          "wheat": 516,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 516,
+          "fRice": 688,
+          "total": 1720
+        },
+        {
+          "scheme": "PHH",
+          "date": "20-09-2026",
+          "wheat": 367.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 367.5,
+          "fRice": 490,
+          "total": 1225
+        },
+        {
+          "scheme": "PHH",
+          "date": "21-09-2026",
+          "wheat": 186,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 186,
+          "fRice": 248,
+          "total": 620
+        },
+        {
+          "scheme": "PHH",
+          "date": "22-09-2026",
+          "wheat": 268.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 268.5,
+          "fRice": 358,
+          "total": 895
+        },
+        {
+          "scheme": "PHH",
+          "date": "23-09-2026",
+          "wheat": 163.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 163.5,
+          "fRice": 218,
+          "total": 545
+        },
+        {
+          "scheme": "PHH",
+          "date": "24-09-2026",
+          "wheat": 244.5,
+          "rice": 6,
+          "sugar": 0,
+          "jowar": 238.5,
+          "fRice": 316,
+          "total": 805
+        },
+        {
+          "scheme": "PHH",
+          "date": "25-09-2026",
+          "wheat": 6,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 6,
+          "fRice": 8,
+          "total": 20
+        },
+        {
+          "scheme": "PHH",
+          "date": "26-09-2026",
+          "wheat": 193.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 193.5,
+          "fRice": 258,
+          "total": 645
+        },
+        {
+          "scheme": "PHH",
+          "date": "27-09-2026",
+          "wheat": 61.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 61.5,
+          "fRice": 82,
+          "total": 205
+        },
+        {
+          "scheme": "PHH",
+          "date": "28-09-2026",
+          "wheat": 52.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 52.5,
+          "fRice": 70,
+          "total": 175
+        },
+        {
+          "scheme": "PHH",
+          "date": "29-09-2026",
+          "wheat": 84.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 103,
+          "fRice": 135,
+          "total": 322.5
+        },
+        {
+          "scheme": "PHH",
+          "date": "30-09-2026",
+          "wheat": 243.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 234.5,
+          "fRice": 291,
+          "total": 769
+        }
+      ],
+      "phhTotal": {
+        "wheat": 3097,
+        "rice": 12,
+        "sugar": 0,
+        "jowar": 3104.5,
+        "fRice": 4108,
+        "total": 10321.5
+      }
+    }
+  },
+  "150024600325": {
+    "2026-09": {
+      "aayRows": [
+        {
+          "scheme": "AAY",
+          "date": "08-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 1,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 36
+        },
+        {
+          "scheme": "AAY",
+          "date": "13-09-2026",
+          "wheat": 253,
+          "rice": 0,
+          "sugar": 19,
+          "jowar": 230,
+          "fRice": 322,
+          "total": 824
+        },
+        {
+          "scheme": "AAY",
+          "date": "14-09-2026",
+          "wheat": 154,
+          "rice": 0,
+          "sugar": 13,
+          "jowar": 140,
+          "fRice": 196,
+          "total": 503
+        },
+        {
+          "scheme": "AAY",
+          "date": "15-09-2026",
+          "wheat": 33,
+          "rice": 0,
+          "sugar": 5,
+          "jowar": 30,
+          "fRice": 42,
+          "total": 110
+        },
+        {
+          "scheme": "AAY",
+          "date": "16-09-2026",
+          "wheat": 77,
+          "rice": 0,
+          "sugar": 6,
+          "jowar": 70,
+          "fRice": 98,
+          "total": 251
+        },
+        {
+          "scheme": "AAY",
+          "date": "17-09-2026",
+          "wheat": 33,
+          "rice": 0,
+          "sugar": 3,
+          "jowar": 30,
+          "fRice": 42,
+          "total": 108
+        },
+        {
+          "scheme": "AAY",
+          "date": "18-09-2026",
+          "wheat": 22,
+          "rice": 20,
+          "sugar": 2,
+          "jowar": 35,
+          "fRice": 28,
+          "total": 107
+        },
+        {
+          "scheme": "AAY",
+          "date": "22-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 1,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 36
+        },
+        {
+          "scheme": "AAY",
+          "date": "23-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 1,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 36
+        },
+        {
+          "scheme": "AAY",
+          "date": "29-09-2026",
+          "wheat": 22,
+          "rice": 0,
+          "sugar": 4,
+          "jowar": 20,
+          "fRice": 28,
+          "total": 74
+        },
+        {
+          "scheme": "AAY",
+          "date": "30-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 35
+        }
+      ],
+      "aayTotal": {
+        "wheat": 638,
+        "rice": 20,
+        "sugar": 55,
+        "jowar": 595,
+        "fRice": 812,
+        "total": 2120
+      },
+      "phhRows": [
+        {
+          "scheme": "PHH",
+          "date": "01-10-2026",
+          "wheat": 16.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 16.5,
+          "fRice": 22,
+          "total": 55
+        },
+        {
+          "scheme": "PHH",
+          "date": "08-09-2026",
+          "wheat": 25.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 25.5,
+          "fRice": 34,
+          "total": 85
+        },
+        {
+          "scheme": "PHH",
+          "date": "11-09-2026",
+          "wheat": 9,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 9,
+          "fRice": 12,
+          "total": 30
+        },
+        {
+          "scheme": "PHH",
+          "date": "13-09-2026",
+          "wheat": 516,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 516,
+          "fRice": 688,
+          "total": 1720
+        },
+        {
+          "scheme": "PHH",
+          "date": "14-09-2026",
+          "wheat": 531,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 531,
+          "fRice": 708,
+          "total": 1770
+        },
+        {
+          "scheme": "PHH",
+          "date": "15-09-2026",
+          "wheat": 235.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 235.5,
+          "fRice": 314,
+          "total": 785
+        },
+        {
+          "scheme": "PHH",
+          "date": "16-09-2026",
+          "wheat": 197,
+          "rice": 10,
+          "sugar": 0,
+          "jowar": 202,
+          "fRice": 256,
+          "total": 665
+        },
+        {
+          "scheme": "PHH",
+          "date": "17-09-2026",
+          "wheat": 130.5,
+          "rice": 15,
+          "sugar": 0,
+          "jowar": 140.5,
+          "fRice": 174,
+          "total": 460
+        },
+        {
+          "scheme": "PHH",
+          "date": "18-09-2026",
+          "wheat": 79.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 79.5,
+          "fRice": 106,
+          "total": 265
+        },
+        {
+          "scheme": "PHH",
+          "date": "21-09-2026",
+          "wheat": 4,
+          "rice": 8,
+          "sugar": 0,
+          "jowar": 8,
+          "fRice": 0,
+          "total": 20
+        },
+        {
+          "scheme": "PHH",
+          "date": "22-09-2026",
+          "wheat": 93,
+          "rice": 18,
+          "sugar": 0,
+          "jowar": 98,
+          "fRice": 116,
+          "total": 325
+        },
+        {
+          "scheme": "PHH",
+          "date": "23-09-2026",
+          "wheat": 81,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 81,
+          "fRice": 108,
+          "total": 270
+        },
+        {
+          "scheme": "PHH",
+          "date": "24-09-2026",
+          "wheat": 3,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 3,
+          "fRice": 4,
+          "total": 10
+        },
+        {
+          "scheme": "PHH",
+          "date": "25-09-2026",
+          "wheat": 16.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 16.5,
+          "fRice": 22,
+          "total": 55
+        },
+        {
+          "scheme": "PHH",
+          "date": "26-09-2026",
+          "wheat": 18,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 18,
+          "fRice": 24,
+          "total": 60
+        },
+        {
+          "scheme": "PHH",
+          "date": "27-09-2026",
+          "wheat": 9,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 9,
+          "fRice": 12,
+          "total": 30
+        },
+        {
+          "scheme": "PHH",
+          "date": "29-09-2026",
+          "wheat": 52.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 52.5,
+          "fRice": 70,
+          "total": 175
+        },
+        {
+          "scheme": "PHH",
+          "date": "30-09-2026",
+          "wheat": 39,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 39,
+          "fRice": 52,
+          "total": 130
+        }
+      ],
+      "phhTotal": {
+        "wheat": 2056.5,
+        "rice": 51,
+        "sugar": 0,
+        "jowar": 2080.5,
+        "fRice": 2722,
+        "total": 6910
+      }
+    },
+    "2026-08": {
+      "aayRows": [
+        {
+          "scheme": "AAY",
+          "date": "08-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 1,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 36
+        },
+        {
+          "scheme": "AAY",
+          "date": "13-09-2026",
+          "wheat": 253,
+          "rice": 0,
+          "sugar": 19,
+          "jowar": 230,
+          "fRice": 322,
+          "total": 824
+        },
+        {
+          "scheme": "AAY",
+          "date": "14-09-2026",
+          "wheat": 154,
+          "rice": 0,
+          "sugar": 13,
+          "jowar": 140,
+          "fRice": 196,
+          "total": 503
+        },
+        {
+          "scheme": "AAY",
+          "date": "15-09-2026",
+          "wheat": 33,
+          "rice": 0,
+          "sugar": 5,
+          "jowar": 30,
+          "fRice": 42,
+          "total": 110
+        },
+        {
+          "scheme": "AAY",
+          "date": "16-09-2026",
+          "wheat": 77,
+          "rice": 0,
+          "sugar": 6,
+          "jowar": 70,
+          "fRice": 98,
+          "total": 251
+        },
+        {
+          "scheme": "AAY",
+          "date": "17-09-2026",
+          "wheat": 33,
+          "rice": 0,
+          "sugar": 3,
+          "jowar": 30,
+          "fRice": 42,
+          "total": 108
+        },
+        {
+          "scheme": "AAY",
+          "date": "18-09-2026",
+          "wheat": 22,
+          "rice": 20,
+          "sugar": 2,
+          "jowar": 35,
+          "fRice": 28,
+          "total": 107
+        },
+        {
+          "scheme": "AAY",
+          "date": "22-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 1,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 36
+        },
+        {
+          "scheme": "AAY",
+          "date": "23-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 1,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 36
+        },
+        {
+          "scheme": "AAY",
+          "date": "29-09-2026",
+          "wheat": 22,
+          "rice": 0,
+          "sugar": 4,
+          "jowar": 20,
+          "fRice": 28,
+          "total": 74
+        },
+        {
+          "scheme": "AAY",
+          "date": "30-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 35
+        }
+      ],
+      "aayTotal": {
+        "wheat": 638,
+        "rice": 20,
+        "sugar": 55,
+        "jowar": 595,
+        "fRice": 812,
+        "total": 2120
+      },
+      "phhRows": [
+        {
+          "scheme": "PHH",
+          "date": "01-10-2026",
+          "wheat": 16.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 16.5,
+          "fRice": 22,
+          "total": 55
+        },
+        {
+          "scheme": "PHH",
+          "date": "08-09-2026",
+          "wheat": 25.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 25.5,
+          "fRice": 34,
+          "total": 85
+        },
+        {
+          "scheme": "PHH",
+          "date": "11-09-2026",
+          "wheat": 9,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 9,
+          "fRice": 12,
+          "total": 30
+        },
+        {
+          "scheme": "PHH",
+          "date": "13-09-2026",
+          "wheat": 516,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 516,
+          "fRice": 688,
+          "total": 1720
+        },
+        {
+          "scheme": "PHH",
+          "date": "14-09-2026",
+          "wheat": 531,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 531,
+          "fRice": 708,
+          "total": 1770
+        },
+        {
+          "scheme": "PHH",
+          "date": "15-09-2026",
+          "wheat": 235.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 235.5,
+          "fRice": 314,
+          "total": 785
+        },
+        {
+          "scheme": "PHH",
+          "date": "16-09-2026",
+          "wheat": 197,
+          "rice": 10,
+          "sugar": 0,
+          "jowar": 202,
+          "fRice": 256,
+          "total": 665
+        },
+        {
+          "scheme": "PHH",
+          "date": "17-09-2026",
+          "wheat": 130.5,
+          "rice": 15,
+          "sugar": 0,
+          "jowar": 140.5,
+          "fRice": 174,
+          "total": 460
+        },
+        {
+          "scheme": "PHH",
+          "date": "18-09-2026",
+          "wheat": 79.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 79.5,
+          "fRice": 106,
+          "total": 265
+        },
+        {
+          "scheme": "PHH",
+          "date": "21-09-2026",
+          "wheat": 4,
+          "rice": 8,
+          "sugar": 0,
+          "jowar": 8,
+          "fRice": 0,
+          "total": 20
+        },
+        {
+          "scheme": "PHH",
+          "date": "22-09-2026",
+          "wheat": 93,
+          "rice": 18,
+          "sugar": 0,
+          "jowar": 98,
+          "fRice": 116,
+          "total": 325
+        },
+        {
+          "scheme": "PHH",
+          "date": "23-09-2026",
+          "wheat": 81,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 81,
+          "fRice": 108,
+          "total": 270
+        },
+        {
+          "scheme": "PHH",
+          "date": "24-09-2026",
+          "wheat": 3,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 3,
+          "fRice": 4,
+          "total": 10
+        },
+        {
+          "scheme": "PHH",
+          "date": "25-09-2026",
+          "wheat": 16.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 16.5,
+          "fRice": 22,
+          "total": 55
+        },
+        {
+          "scheme": "PHH",
+          "date": "26-09-2026",
+          "wheat": 18,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 18,
+          "fRice": 24,
+          "total": 60
+        },
+        {
+          "scheme": "PHH",
+          "date": "27-09-2026",
+          "wheat": 9,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 9,
+          "fRice": 12,
+          "total": 30
+        },
+        {
+          "scheme": "PHH",
+          "date": "29-09-2026",
+          "wheat": 52.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 52.5,
+          "fRice": 70,
+          "total": 175
+        },
+        {
+          "scheme": "PHH",
+          "date": "30-09-2026",
+          "wheat": 39,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 39,
+          "fRice": 52,
+          "total": 130
+        }
+      ],
+      "phhTotal": {
+        "wheat": 2056.5,
+        "rice": 51,
+        "sugar": 0,
+        "jowar": 2080.5,
+        "fRice": 2722,
+        "total": 6910
+      }
+    }
+  },
+  "150024600326": {
+    "2026-09": {
+      "aayRows": [
+        {
+          "scheme": "AAY",
+          "date": "11-09-2026",
+          "wheat": 88,
+          "rice": 0,
+          "sugar": 8,
+          "jowar": 80,
+          "fRice": 112,
+          "total": 288
+        },
+        {
+          "scheme": "AAY",
+          "date": "12-09-2026",
+          "wheat": 121,
+          "rice": 0,
+          "sugar": 13,
+          "jowar": 110,
+          "fRice": 154,
+          "total": 398
+        },
+        {
+          "scheme": "AAY",
+          "date": "13-09-2026",
+          "wheat": 77,
+          "rice": 0,
+          "sugar": 7,
+          "jowar": 70,
+          "fRice": 98,
+          "total": 252
+        },
+        {
+          "scheme": "AAY",
+          "date": "14-09-2026",
+          "wheat": 55,
+          "rice": 0,
+          "sugar": 5,
+          "jowar": 50,
+          "fRice": 70,
+          "total": 180
+        },
+        {
+          "scheme": "AAY",
+          "date": "15-09-2026",
+          "wheat": 33,
+          "rice": 0,
+          "sugar": 3,
+          "jowar": 30,
+          "fRice": 42,
+          "total": 108
+        },
+        {
+          "scheme": "AAY",
+          "date": "16-09-2026",
+          "wheat": 44,
+          "rice": 0,
+          "sugar": 4,
+          "jowar": 40,
+          "fRice": 56,
+          "total": 144
+        },
+        {
+          "scheme": "AAY",
+          "date": "17-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 1,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 36
+        },
+        {
+          "scheme": "AAY",
+          "date": "20-09-2026",
+          "wheat": 33,
+          "rice": 0,
+          "sugar": 3,
+          "jowar": 30,
+          "fRice": 42,
+          "total": 108
+        },
+        {
+          "scheme": "AAY",
+          "date": "22-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 35
+        },
+        {
+          "scheme": "AAY",
+          "date": "26-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 35
+        },
+        {
+          "scheme": "AAY",
+          "date": "30-09-2026",
+          "wheat": 22,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 20,
+          "fRice": 28,
+          "total": 70
+        }
+      ],
+      "aayTotal": {
+        "wheat": 506,
+        "rice": 0,
+        "sugar": 44,
+        "jowar": 460,
+        "fRice": 644,
+        "total": 1654
+      },
+      "phhRows": [
+        {
+          "scheme": "PHH",
+          "date": "08-09-2026",
+          "wheat": 9,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 9,
+          "fRice": 12,
+          "total": 30
+        },
+        {
+          "scheme": "PHH",
+          "date": "11-09-2026",
+          "wheat": 193.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 193.5,
+          "fRice": 258,
+          "total": 645
+        },
+        {
+          "scheme": "PHH",
+          "date": "12-09-2026",
+          "wheat": 282,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 282,
+          "fRice": 376,
+          "total": 940
+        },
+        {
+          "scheme": "PHH",
+          "date": "13-09-2026",
+          "wheat": 199.5,
+          "rice": 15,
+          "sugar": 0,
+          "jowar": 209.5,
+          "fRice": 266,
+          "total": 690
+        },
+        {
+          "scheme": "PHH",
+          "date": "14-09-2026",
+          "wheat": 130.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 130.5,
+          "fRice": 174,
+          "total": 435
+        },
+        {
+          "scheme": "PHH",
+          "date": "15-09-2026",
+          "wheat": 130.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 130.5,
+          "fRice": 174,
+          "total": 435
+        },
+        {
+          "scheme": "PHH",
+          "date": "16-09-2026",
+          "wheat": 112.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 112.5,
+          "fRice": 150,
+          "total": 375
+        },
+        {
+          "scheme": "PHH",
+          "date": "17-09-2026",
+          "wheat": 45,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 45,
+          "fRice": 60,
+          "total": 150
+        },
+        {
+          "scheme": "PHH",
+          "date": "20-09-2026",
+          "wheat": 138,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 138,
+          "fRice": 184,
+          "total": 460
+        },
+        {
+          "scheme": "PHH",
+          "date": "21-09-2026",
+          "wheat": 28.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 28.5,
+          "fRice": 38,
+          "total": 95
+        },
+        {
+          "scheme": "PHH",
+          "date": "22-09-2026",
+          "wheat": 22.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 22.5,
+          "fRice": 30,
+          "total": 75
+        },
+        {
+          "scheme": "PHH",
+          "date": "23-09-2026",
+          "wheat": 18,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 18,
+          "fRice": 24,
+          "total": 60
+        },
+        {
+          "scheme": "PHH",
+          "date": "25-09-2026",
+          "wheat": 18,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 18,
+          "fRice": 24,
+          "total": 60
+        },
+        {
+          "scheme": "PHH",
+          "date": "26-09-2026",
+          "wheat": 6,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 6,
+          "fRice": 8,
+          "total": 20
+        },
+        {
+          "scheme": "PHH",
+          "date": "27-09-2026",
+          "wheat": 6,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 6,
+          "fRice": 8,
+          "total": 20
+        },
+        {
+          "scheme": "PHH",
+          "date": "28-09-2026",
+          "wheat": 6,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 6,
+          "fRice": 8,
+          "total": 20
+        },
+        {
+          "scheme": "PHH",
+          "date": "29-09-2026",
+          "wheat": 4.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 4.5,
+          "fRice": 6,
+          "total": 15
+        },
+        {
+          "scheme": "PHH",
+          "date": "30-09-2026",
+          "wheat": 30,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 30,
+          "fRice": 40,
+          "total": 100
+        }
+      ],
+      "phhTotal": {
+        "wheat": 1380,
+        "rice": 15,
+        "sugar": 0,
+        "jowar": 1390,
+        "fRice": 1840,
+        "total": 4625
+      }
+    },
+    "2026-08": {
+      "aayRows": [
+        {
+          "scheme": "AAY",
+          "date": "11-09-2026",
+          "wheat": 88,
+          "rice": 0,
+          "sugar": 8,
+          "jowar": 80,
+          "fRice": 112,
+          "total": 288
+        },
+        {
+          "scheme": "AAY",
+          "date": "12-09-2026",
+          "wheat": 121,
+          "rice": 0,
+          "sugar": 13,
+          "jowar": 110,
+          "fRice": 154,
+          "total": 398
+        },
+        {
+          "scheme": "AAY",
+          "date": "13-09-2026",
+          "wheat": 77,
+          "rice": 0,
+          "sugar": 7,
+          "jowar": 70,
+          "fRice": 98,
+          "total": 252
+        },
+        {
+          "scheme": "AAY",
+          "date": "14-09-2026",
+          "wheat": 55,
+          "rice": 0,
+          "sugar": 5,
+          "jowar": 50,
+          "fRice": 70,
+          "total": 180
+        },
+        {
+          "scheme": "AAY",
+          "date": "15-09-2026",
+          "wheat": 33,
+          "rice": 0,
+          "sugar": 3,
+          "jowar": 30,
+          "fRice": 42,
+          "total": 108
+        },
+        {
+          "scheme": "AAY",
+          "date": "16-09-2026",
+          "wheat": 44,
+          "rice": 0,
+          "sugar": 4,
+          "jowar": 40,
+          "fRice": 56,
+          "total": 144
+        },
+        {
+          "scheme": "AAY",
+          "date": "17-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 1,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 36
+        },
+        {
+          "scheme": "AAY",
+          "date": "20-09-2026",
+          "wheat": 33,
+          "rice": 0,
+          "sugar": 3,
+          "jowar": 30,
+          "fRice": 42,
+          "total": 108
+        },
+        {
+          "scheme": "AAY",
+          "date": "22-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 35
+        },
+        {
+          "scheme": "AAY",
+          "date": "26-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 35
+        },
+        {
+          "scheme": "AAY",
+          "date": "30-09-2026",
+          "wheat": 22,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 20,
+          "fRice": 28,
+          "total": 70
+        }
+      ],
+      "aayTotal": {
+        "wheat": 506,
+        "rice": 0,
+        "sugar": 44,
+        "jowar": 460,
+        "fRice": 644,
+        "total": 1654
+      },
+      "phhRows": [
+        {
+          "scheme": "PHH",
+          "date": "08-09-2026",
+          "wheat": 9,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 9,
+          "fRice": 12,
+          "total": 30
+        },
+        {
+          "scheme": "PHH",
+          "date": "11-09-2026",
+          "wheat": 193.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 193.5,
+          "fRice": 258,
+          "total": 645
+        },
+        {
+          "scheme": "PHH",
+          "date": "12-09-2026",
+          "wheat": 282,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 282,
+          "fRice": 376,
+          "total": 940
+        },
+        {
+          "scheme": "PHH",
+          "date": "13-09-2026",
+          "wheat": 199.5,
+          "rice": 15,
+          "sugar": 0,
+          "jowar": 209.5,
+          "fRice": 266,
+          "total": 690
+        },
+        {
+          "scheme": "PHH",
+          "date": "14-09-2026",
+          "wheat": 130.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 130.5,
+          "fRice": 174,
+          "total": 435
+        },
+        {
+          "scheme": "PHH",
+          "date": "15-09-2026",
+          "wheat": 130.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 130.5,
+          "fRice": 174,
+          "total": 435
+        },
+        {
+          "scheme": "PHH",
+          "date": "16-09-2026",
+          "wheat": 112.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 112.5,
+          "fRice": 150,
+          "total": 375
+        },
+        {
+          "scheme": "PHH",
+          "date": "17-09-2026",
+          "wheat": 45,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 45,
+          "fRice": 60,
+          "total": 150
+        },
+        {
+          "scheme": "PHH",
+          "date": "20-09-2026",
+          "wheat": 138,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 138,
+          "fRice": 184,
+          "total": 460
+        },
+        {
+          "scheme": "PHH",
+          "date": "21-09-2026",
+          "wheat": 28.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 28.5,
+          "fRice": 38,
+          "total": 95
+        },
+        {
+          "scheme": "PHH",
+          "date": "22-09-2026",
+          "wheat": 22.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 22.5,
+          "fRice": 30,
+          "total": 75
+        },
+        {
+          "scheme": "PHH",
+          "date": "23-09-2026",
+          "wheat": 18,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 18,
+          "fRice": 24,
+          "total": 60
+        },
+        {
+          "scheme": "PHH",
+          "date": "25-09-2026",
+          "wheat": 18,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 18,
+          "fRice": 24,
+          "total": 60
+        },
+        {
+          "scheme": "PHH",
+          "date": "26-09-2026",
+          "wheat": 6,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 6,
+          "fRice": 8,
+          "total": 20
+        },
+        {
+          "scheme": "PHH",
+          "date": "27-09-2026",
+          "wheat": 6,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 6,
+          "fRice": 8,
+          "total": 20
+        },
+        {
+          "scheme": "PHH",
+          "date": "28-09-2026",
+          "wheat": 6,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 6,
+          "fRice": 8,
+          "total": 20
+        },
+        {
+          "scheme": "PHH",
+          "date": "29-09-2026",
+          "wheat": 4.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 4.5,
+          "fRice": 6,
+          "total": 15
+        },
+        {
+          "scheme": "PHH",
+          "date": "30-09-2026",
+          "wheat": 30,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 30,
+          "fRice": 40,
+          "total": 100
+        }
+      ],
+      "phhTotal": {
+        "wheat": 1380,
+        "rice": 15,
+        "sugar": 0,
+        "jowar": 1390,
+        "fRice": 1840,
+        "total": 4625
+      }
+    }
+  },
+  "150024600327": {
+    "2026-09": {
+      "aayRows": [
+        {
+          "scheme": "AAY",
+          "date": "12-09-2026",
+          "wheat": 55,
+          "rice": 0,
+          "sugar": 7,
+          "jowar": 50,
+          "fRice": 70,
+          "total": 182
+        },
+        {
+          "scheme": "AAY",
+          "date": "13-09-2026",
+          "wheat": 110,
+          "rice": 0,
+          "sugar": 11,
+          "jowar": 100,
+          "fRice": 140,
+          "total": 361
+        },
+        {
+          "scheme": "AAY",
+          "date": "15-09-2026",
+          "wheat": 44,
+          "rice": 13,
+          "sugar": 4,
+          "jowar": 41,
+          "fRice": 42,
+          "total": 144
+        },
+        {
+          "scheme": "AAY",
+          "date": "16-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 1,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 36
+        },
+        {
+          "scheme": "AAY",
+          "date": "17-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 1,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 36
+        },
+        {
+          "scheme": "AAY",
+          "date": "18-09-2026",
+          "wheat": 22,
+          "rice": 0,
+          "sugar": 2,
+          "jowar": 20,
+          "fRice": 28,
+          "total": 72
+        },
+        {
+          "scheme": "AAY",
+          "date": "19-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 1,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 36
+        },
+        {
+          "scheme": "AAY",
+          "date": "20-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 35
+        },
+        {
+          "scheme": "AAY",
+          "date": "21-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 1,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 36
+        },
+        {
+          "scheme": "AAY",
+          "date": "22-09-2026",
+          "wheat": 33,
+          "rice": 0,
+          "sugar": 3,
+          "jowar": 30,
+          "fRice": 42,
+          "total": 108
+        },
+        {
+          "scheme": "AAY",
+          "date": "24-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 1,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 36
+        },
+        {
+          "scheme": "AAY",
+          "date": "25-09-2026",
+          "wheat": 22,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 20,
+          "fRice": 28,
+          "total": 70
+        }
+      ],
+      "aayTotal": {
+        "wheat": 352,
+        "rice": 13,
+        "sugar": 32,
+        "jowar": 321,
+        "fRice": 434,
+        "total": 1152
+      },
+      "phhRows": [
+        {
+          "scheme": "PHH",
+          "date": "10-09-2026",
+          "wheat": 4.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 4.5,
+          "fRice": 6,
+          "total": 15
+        },
+        {
+          "scheme": "PHH",
+          "date": "12-09-2026",
+          "wheat": 192,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 192,
+          "fRice": 256,
+          "total": 640
+        },
+        {
+          "scheme": "PHH",
+          "date": "13-09-2026",
+          "wheat": 354.5,
+          "rice": 10,
+          "sugar": 0,
+          "jowar": 359.5,
+          "fRice": 466,
+          "total": 1190
+        },
+        {
+          "scheme": "PHH",
+          "date": "15-09-2026",
+          "wheat": 444,
+          "rice": 12,
+          "sugar": 0,
+          "jowar": 452,
+          "fRice": 592,
+          "total": 1500
+        },
+        {
+          "scheme": "PHH",
+          "date": "16-09-2026",
+          "wheat": 162,
+          "rice": 18,
+          "sugar": 0,
+          "jowar": 174,
+          "fRice": 216,
+          "total": 570
+        },
+        {
+          "scheme": "PHH",
+          "date": "17-09-2026",
+          "wheat": 67.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 67.5,
+          "fRice": 90,
+          "total": 225
+        },
+        {
+          "scheme": "PHH",
+          "date": "18-09-2026",
+          "wheat": 127.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 127.5,
+          "fRice": 170,
+          "total": 425
+        },
+        {
+          "scheme": "PHH",
+          "date": "19-09-2026",
+          "wheat": 91.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 91.5,
+          "fRice": 122,
+          "total": 305
+        },
+        {
+          "scheme": "PHH",
+          "date": "20-09-2026",
+          "wheat": 72,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 72,
+          "fRice": 96,
+          "total": 240
+        },
+        {
+          "scheme": "PHH",
+          "date": "21-09-2026",
+          "wheat": 33,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 33,
+          "fRice": 44,
+          "total": 110
+        },
+        {
+          "scheme": "PHH",
+          "date": "22-09-2026",
+          "wheat": 102,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 102,
+          "fRice": 136,
+          "total": 340
+        },
+        {
+          "scheme": "PHH",
+          "date": "23-09-2026",
+          "wheat": 28.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 28.5,
+          "fRice": 38,
+          "total": 95
+        },
+        {
+          "scheme": "PHH",
+          "date": "24-09-2026",
+          "wheat": 72,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 72,
+          "fRice": 96,
+          "total": 240
+        },
+        {
+          "scheme": "PHH",
+          "date": "25-09-2026",
+          "wheat": 13.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 13.5,
+          "fRice": 18,
+          "total": 45
+        },
+        {
+          "scheme": "PHH",
+          "date": "26-09-2026",
+          "wheat": 46.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 46.5,
+          "fRice": 62,
+          "total": 155
+        },
+        {
+          "scheme": "PHH",
+          "date": "27-09-2026",
+          "wheat": 13.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 13.5,
+          "fRice": 18,
+          "total": 45
+        },
+        {
+          "scheme": "PHH",
+          "date": "28-09-2026",
+          "wheat": 7.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 7.5,
+          "fRice": 10,
+          "total": 25
+        },
+        {
+          "scheme": "PHH",
+          "date": "29-09-2026",
+          "wheat": 37,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 11,
+          "fRice": 17,
+          "total": 65
+        }
+      ],
+      "phhTotal": {
+        "wheat": 1869,
+        "rice": 40,
+        "sugar": 0,
+        "jowar": 1868,
+        "fRice": 2453,
+        "total": 6230
+      }
+    },
+    "2026-08": {
+      "aayRows": [
+        {
+          "scheme": "AAY",
+          "date": "12-09-2026",
+          "wheat": 55,
+          "rice": 0,
+          "sugar": 7,
+          "jowar": 50,
+          "fRice": 70,
+          "total": 182
+        },
+        {
+          "scheme": "AAY",
+          "date": "13-09-2026",
+          "wheat": 110,
+          "rice": 0,
+          "sugar": 11,
+          "jowar": 100,
+          "fRice": 140,
+          "total": 361
+        },
+        {
+          "scheme": "AAY",
+          "date": "15-09-2026",
+          "wheat": 44,
+          "rice": 13,
+          "sugar": 4,
+          "jowar": 41,
+          "fRice": 42,
+          "total": 144
+        },
+        {
+          "scheme": "AAY",
+          "date": "16-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 1,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 36
+        },
+        {
+          "scheme": "AAY",
+          "date": "17-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 1,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 36
+        },
+        {
+          "scheme": "AAY",
+          "date": "18-09-2026",
+          "wheat": 22,
+          "rice": 0,
+          "sugar": 2,
+          "jowar": 20,
+          "fRice": 28,
+          "total": 72
+        },
+        {
+          "scheme": "AAY",
+          "date": "19-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 1,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 36
+        },
+        {
+          "scheme": "AAY",
+          "date": "20-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 35
+        },
+        {
+          "scheme": "AAY",
+          "date": "21-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 1,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 36
+        },
+        {
+          "scheme": "AAY",
+          "date": "22-09-2026",
+          "wheat": 33,
+          "rice": 0,
+          "sugar": 3,
+          "jowar": 30,
+          "fRice": 42,
+          "total": 108
+        },
+        {
+          "scheme": "AAY",
+          "date": "24-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 1,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 36
+        },
+        {
+          "scheme": "AAY",
+          "date": "25-09-2026",
+          "wheat": 22,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 20,
+          "fRice": 28,
+          "total": 70
+        }
+      ],
+      "aayTotal": {
+        "wheat": 352,
+        "rice": 13,
+        "sugar": 32,
+        "jowar": 321,
+        "fRice": 434,
+        "total": 1152
+      },
+      "phhRows": [
+        {
+          "scheme": "PHH",
+          "date": "10-09-2026",
+          "wheat": 4.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 4.5,
+          "fRice": 6,
+          "total": 15
+        },
+        {
+          "scheme": "PHH",
+          "date": "12-09-2026",
+          "wheat": 192,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 192,
+          "fRice": 256,
+          "total": 640
+        },
+        {
+          "scheme": "PHH",
+          "date": "13-09-2026",
+          "wheat": 354.5,
+          "rice": 10,
+          "sugar": 0,
+          "jowar": 359.5,
+          "fRice": 466,
+          "total": 1190
+        },
+        {
+          "scheme": "PHH",
+          "date": "15-09-2026",
+          "wheat": 444,
+          "rice": 12,
+          "sugar": 0,
+          "jowar": 452,
+          "fRice": 592,
+          "total": 1500
+        },
+        {
+          "scheme": "PHH",
+          "date": "16-09-2026",
+          "wheat": 162,
+          "rice": 18,
+          "sugar": 0,
+          "jowar": 174,
+          "fRice": 216,
+          "total": 570
+        },
+        {
+          "scheme": "PHH",
+          "date": "17-09-2026",
+          "wheat": 67.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 67.5,
+          "fRice": 90,
+          "total": 225
+        },
+        {
+          "scheme": "PHH",
+          "date": "18-09-2026",
+          "wheat": 127.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 127.5,
+          "fRice": 170,
+          "total": 425
+        },
+        {
+          "scheme": "PHH",
+          "date": "19-09-2026",
+          "wheat": 91.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 91.5,
+          "fRice": 122,
+          "total": 305
+        },
+        {
+          "scheme": "PHH",
+          "date": "20-09-2026",
+          "wheat": 72,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 72,
+          "fRice": 96,
+          "total": 240
+        },
+        {
+          "scheme": "PHH",
+          "date": "21-09-2026",
+          "wheat": 33,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 33,
+          "fRice": 44,
+          "total": 110
+        },
+        {
+          "scheme": "PHH",
+          "date": "22-09-2026",
+          "wheat": 102,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 102,
+          "fRice": 136,
+          "total": 340
+        },
+        {
+          "scheme": "PHH",
+          "date": "23-09-2026",
+          "wheat": 28.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 28.5,
+          "fRice": 38,
+          "total": 95
+        },
+        {
+          "scheme": "PHH",
+          "date": "24-09-2026",
+          "wheat": 72,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 72,
+          "fRice": 96,
+          "total": 240
+        },
+        {
+          "scheme": "PHH",
+          "date": "25-09-2026",
+          "wheat": 13.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 13.5,
+          "fRice": 18,
+          "total": 45
+        },
+        {
+          "scheme": "PHH",
+          "date": "26-09-2026",
+          "wheat": 46.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 46.5,
+          "fRice": 62,
+          "total": 155
+        },
+        {
+          "scheme": "PHH",
+          "date": "27-09-2026",
+          "wheat": 13.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 13.5,
+          "fRice": 18,
+          "total": 45
+        },
+        {
+          "scheme": "PHH",
+          "date": "28-09-2026",
+          "wheat": 7.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 7.5,
+          "fRice": 10,
+          "total": 25
+        },
+        {
+          "scheme": "PHH",
+          "date": "29-09-2026",
+          "wheat": 37,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 11,
+          "fRice": 17,
+          "total": 65
+        }
+      ],
+      "phhTotal": {
+        "wheat": 1869,
+        "rice": 40,
+        "sugar": 0,
+        "jowar": 1868,
+        "fRice": 2453,
+        "total": 6230
+      }
+    }
+  },
+  "150024600328": {
+    "2026-09": {
+      "aayRows": [
+        {
+          "scheme": "AAY",
+          "date": "09-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 1,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 36
+        },
+        {
+          "scheme": "AAY",
+          "date": "11-09-2026",
+          "wheat": 44,
+          "rice": 0,
+          "sugar": 4,
+          "jowar": 40,
+          "fRice": 56,
+          "total": 144
+        },
+        {
+          "scheme": "AAY",
+          "date": "12-09-2026",
+          "wheat": 66,
+          "rice": 0,
+          "sugar": 5,
+          "jowar": 60,
+          "fRice": 84,
+          "total": 215
+        },
+        {
+          "scheme": "AAY",
+          "date": "13-09-2026",
+          "wheat": 33,
+          "rice": 0,
+          "sugar": 3,
+          "jowar": 30,
+          "fRice": 42,
+          "total": 108
+        },
+        {
+          "scheme": "AAY",
+          "date": "15-09-2026",
+          "wheat": 22,
+          "rice": 0,
+          "sugar": 2,
+          "jowar": 20,
+          "fRice": 28,
+          "total": 72
+        },
+        {
+          "scheme": "AAY",
+          "date": "20-09-2026",
+          "wheat": 44,
+          "rice": 0,
+          "sugar": 4,
+          "jowar": 40,
+          "fRice": 56,
+          "total": 144
+        },
+        {
+          "scheme": "AAY",
+          "date": "22-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 1,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 36
+        }
+      ],
+      "aayTotal": {
+        "wheat": 231,
+        "rice": 0,
+        "sugar": 20,
+        "jowar": 210,
+        "fRice": 294,
+        "total": 755
+      },
+      "phhRows": [
+        {
+          "scheme": "PHH",
+          "date": "05-09-2026",
+          "wheat": 19.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 19.5,
+          "fRice": 26,
+          "total": 65
+        },
+        {
+          "scheme": "PHH",
+          "date": "09-09-2026",
+          "wheat": 334,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 334,
+          "fRice": 447,
+          "total": 1115
+        },
+        {
+          "scheme": "PHH",
+          "date": "10-09-2026",
+          "wheat": 273,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 273,
+          "fRice": 364,
+          "total": 910
+        },
+        {
+          "scheme": "PHH",
+          "date": "11-09-2026",
+          "wheat": 409.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 409.5,
+          "fRice": 546,
+          "total": 1365
+        },
+        {
+          "scheme": "PHH",
+          "date": "12-09-2026",
+          "wheat": 355.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 355.5,
+          "fRice": 474,
+          "total": 1185
+        },
+        {
+          "scheme": "PHH",
+          "date": "13-09-2026",
+          "wheat": 373.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 373.5,
+          "fRice": 498,
+          "total": 1245
+        },
+        {
+          "scheme": "PHH",
+          "date": "15-09-2026",
+          "wheat": 137.5,
+          "rice": 8,
+          "sugar": 0,
+          "jowar": 141.5,
+          "fRice": 178,
+          "total": 465
+        },
+        {
+          "scheme": "PHH",
+          "date": "20-09-2026",
+          "wheat": 120,
+          "rice": 6,
+          "sugar": 0,
+          "jowar": 123,
+          "fRice": 156,
+          "total": 405
+        },
+        {
+          "scheme": "PHH",
+          "date": "21-09-2026",
+          "wheat": 70.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 70.5,
+          "fRice": 94,
+          "total": 235
+        },
+        {
+          "scheme": "PHH",
+          "date": "22-09-2026",
+          "wheat": 54,
+          "rice": 21,
+          "sugar": 0,
+          "jowar": 68,
+          "fRice": 72,
+          "total": 215
+        },
+        {
+          "scheme": "PHH",
+          "date": "23-09-2026",
+          "wheat": 191.5,
+          "rice": 39,
+          "sugar": 0,
+          "jowar": 170.5,
+          "fRice": 189,
+          "total": 590
+        }
+      ],
+      "phhTotal": {
+        "wheat": 2338.5,
+        "rice": 74,
+        "sugar": 0,
+        "jowar": 2338.5,
+        "fRice": 3044,
+        "total": 7795
+      }
+    },
+    "2026-08": {
+      "aayRows": [
+        {
+          "scheme": "AAY",
+          "date": "09-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 1,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 36
+        },
+        {
+          "scheme": "AAY",
+          "date": "11-09-2026",
+          "wheat": 44,
+          "rice": 0,
+          "sugar": 4,
+          "jowar": 40,
+          "fRice": 56,
+          "total": 144
+        },
+        {
+          "scheme": "AAY",
+          "date": "12-09-2026",
+          "wheat": 66,
+          "rice": 0,
+          "sugar": 5,
+          "jowar": 60,
+          "fRice": 84,
+          "total": 215
+        },
+        {
+          "scheme": "AAY",
+          "date": "13-09-2026",
+          "wheat": 33,
+          "rice": 0,
+          "sugar": 3,
+          "jowar": 30,
+          "fRice": 42,
+          "total": 108
+        },
+        {
+          "scheme": "AAY",
+          "date": "15-09-2026",
+          "wheat": 22,
+          "rice": 0,
+          "sugar": 2,
+          "jowar": 20,
+          "fRice": 28,
+          "total": 72
+        },
+        {
+          "scheme": "AAY",
+          "date": "20-09-2026",
+          "wheat": 44,
+          "rice": 0,
+          "sugar": 4,
+          "jowar": 40,
+          "fRice": 56,
+          "total": 144
+        },
+        {
+          "scheme": "AAY",
+          "date": "22-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 1,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 36
+        }
+      ],
+      "aayTotal": {
+        "wheat": 231,
+        "rice": 0,
+        "sugar": 20,
+        "jowar": 210,
+        "fRice": 294,
+        "total": 755
+      },
+      "phhRows": [
+        {
+          "scheme": "PHH",
+          "date": "05-09-2026",
+          "wheat": 19.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 19.5,
+          "fRice": 26,
+          "total": 65
+        },
+        {
+          "scheme": "PHH",
+          "date": "09-09-2026",
+          "wheat": 334,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 334,
+          "fRice": 447,
+          "total": 1115
+        },
+        {
+          "scheme": "PHH",
+          "date": "10-09-2026",
+          "wheat": 273,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 273,
+          "fRice": 364,
+          "total": 910
+        },
+        {
+          "scheme": "PHH",
+          "date": "11-09-2026",
+          "wheat": 409.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 409.5,
+          "fRice": 546,
+          "total": 1365
+        },
+        {
+          "scheme": "PHH",
+          "date": "12-09-2026",
+          "wheat": 355.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 355.5,
+          "fRice": 474,
+          "total": 1185
+        },
+        {
+          "scheme": "PHH",
+          "date": "13-09-2026",
+          "wheat": 373.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 373.5,
+          "fRice": 498,
+          "total": 1245
+        },
+        {
+          "scheme": "PHH",
+          "date": "15-09-2026",
+          "wheat": 137.5,
+          "rice": 8,
+          "sugar": 0,
+          "jowar": 141.5,
+          "fRice": 178,
+          "total": 465
+        },
+        {
+          "scheme": "PHH",
+          "date": "20-09-2026",
+          "wheat": 120,
+          "rice": 6,
+          "sugar": 0,
+          "jowar": 123,
+          "fRice": 156,
+          "total": 405
+        },
+        {
+          "scheme": "PHH",
+          "date": "21-09-2026",
+          "wheat": 70.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 70.5,
+          "fRice": 94,
+          "total": 235
+        },
+        {
+          "scheme": "PHH",
+          "date": "22-09-2026",
+          "wheat": 54,
+          "rice": 21,
+          "sugar": 0,
+          "jowar": 68,
+          "fRice": 72,
+          "total": 215
+        },
+        {
+          "scheme": "PHH",
+          "date": "23-09-2026",
+          "wheat": 191.5,
+          "rice": 39,
+          "sugar": 0,
+          "jowar": 170.5,
+          "fRice": 189,
+          "total": 590
+        }
+      ],
+      "phhTotal": {
+        "wheat": 2338.5,
+        "rice": 74,
+        "sugar": 0,
+        "jowar": 2338.5,
+        "fRice": 3044,
+        "total": 7795
+      }
+    }
+  },
+  "150024600329": {
+    "2026-09": {
+      "aayRows": [
+        {
+          "scheme": "AAY",
+          "date": "09-09-2026",
+          "wheat": 66,
+          "rice": 0,
+          "sugar": 7,
+          "jowar": 60,
+          "fRice": 84,
+          "total": 217
+        },
+        {
+          "scheme": "AAY",
+          "date": "10-09-2026",
+          "wheat": 110,
+          "rice": 0,
+          "sugar": 11,
+          "jowar": 100,
+          "fRice": 140,
+          "total": 361
+        },
+        {
+          "scheme": "AAY",
+          "date": "11-09-2026",
+          "wheat": 99,
+          "rice": 0,
+          "sugar": 11,
+          "jowar": 90,
+          "fRice": 126,
+          "total": 326
+        },
+        {
+          "scheme": "AAY",
+          "date": "12-09-2026",
+          "wheat": 55,
+          "rice": 0,
+          "sugar": 6,
+          "jowar": 50,
+          "fRice": 70,
+          "total": 181
+        },
+        {
+          "scheme": "AAY",
+          "date": "13-09-2026",
+          "wheat": 33,
+          "rice": 0,
+          "sugar": 4,
+          "jowar": 30,
+          "fRice": 42,
+          "total": 109
+        },
+        {
+          "scheme": "AAY",
+          "date": "14-09-2026",
+          "wheat": 88,
+          "rice": 0,
+          "sugar": 9,
+          "jowar": 80,
+          "fRice": 112,
+          "total": 289
+        },
+        {
+          "scheme": "AAY",
+          "date": "15-09-2026",
+          "wheat": 77,
+          "rice": 0,
+          "sugar": 8,
+          "jowar": 70,
+          "fRice": 98,
+          "total": 253
+        },
+        {
+          "scheme": "AAY",
+          "date": "16-09-2026",
+          "wheat": 22,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 20,
+          "fRice": 28,
+          "total": 70
+        },
+        {
+          "scheme": "AAY",
+          "date": "17-09-2026",
+          "wheat": 55,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 50,
+          "fRice": 70,
+          "total": 175
+        }
+      ],
+      "aayTotal": {
+        "wheat": 605,
+        "rice": 0,
+        "sugar": 56,
+        "jowar": 550,
+        "fRice": 770,
+        "total": 1981
+      },
+      "phhRows": [
+        {
+          "scheme": "PHH",
+          "date": "09-09-2026",
+          "wheat": 70.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 70.5,
+          "fRice": 94,
+          "total": 235
+        },
+        {
+          "scheme": "PHH",
+          "date": "10-09-2026",
+          "wheat": 169.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 169.5,
+          "fRice": 226,
+          "total": 565
+        },
+        {
+          "scheme": "PHH",
+          "date": "11-09-2026",
+          "wheat": 136.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 136.5,
+          "fRice": 182,
+          "total": 455
+        },
+        {
+          "scheme": "PHH",
+          "date": "12-09-2026",
+          "wheat": 250.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 250.5,
+          "fRice": 334,
+          "total": 835
+        },
+        {
+          "scheme": "PHH",
+          "date": "13-09-2026",
+          "wheat": 99,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 99,
+          "fRice": 132,
+          "total": 330
+        },
+        {
+          "scheme": "PHH",
+          "date": "14-09-2026",
+          "wheat": 154.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 154.5,
+          "fRice": 206,
+          "total": 515
+        },
+        {
+          "scheme": "PHH",
+          "date": "15-09-2026",
+          "wheat": 123,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 123,
+          "fRice": 164,
+          "total": 410
+        },
+        {
+          "scheme": "PHH",
+          "date": "16-09-2026",
+          "wheat": 124.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 124.5,
+          "fRice": 166,
+          "total": 415
+        },
+        {
+          "scheme": "PHH",
+          "date": "17-09-2026",
+          "wheat": 33,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 33,
+          "fRice": 44,
+          "total": 110
+        },
+        {
+          "scheme": "PHH",
+          "date": "20-09-2026",
+          "wheat": 22.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 22.5,
+          "fRice": 30,
+          "total": 75
+        },
+        {
+          "scheme": "PHH",
+          "date": "21-09-2026",
+          "wheat": 13.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 13.5,
+          "fRice": 18,
+          "total": 45
+        },
+        {
+          "scheme": "PHH",
+          "date": "22-09-2026",
+          "wheat": 19.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 19.5,
+          "fRice": 26,
+          "total": 65
+        },
+        {
+          "scheme": "PHH",
+          "date": "26-09-2026",
+          "wheat": 6,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 6,
+          "fRice": 8,
+          "total": 20
+        },
+        {
+          "scheme": "PHH",
+          "date": "27-09-2026",
+          "wheat": 7.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 7.5,
+          "fRice": 10,
+          "total": 25
+        },
+        {
+          "scheme": "PHH",
+          "date": "28-09-2026",
+          "wheat": 3,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 3,
+          "fRice": 4,
+          "total": 10
+        }
+      ],
+      "phhTotal": {
+        "wheat": 1233,
+        "rice": 0,
+        "sugar": 0,
+        "jowar": 1233,
+        "fRice": 1644,
+        "total": 4110
+      }
+    },
+    "2026-08": {
+      "aayRows": [
+        {
+          "scheme": "AAY",
+          "date": "09-09-2026",
+          "wheat": 66,
+          "rice": 0,
+          "sugar": 7,
+          "jowar": 60,
+          "fRice": 84,
+          "total": 217
+        },
+        {
+          "scheme": "AAY",
+          "date": "10-09-2026",
+          "wheat": 110,
+          "rice": 0,
+          "sugar": 11,
+          "jowar": 100,
+          "fRice": 140,
+          "total": 361
+        },
+        {
+          "scheme": "AAY",
+          "date": "11-09-2026",
+          "wheat": 99,
+          "rice": 0,
+          "sugar": 11,
+          "jowar": 90,
+          "fRice": 126,
+          "total": 326
+        },
+        {
+          "scheme": "AAY",
+          "date": "12-09-2026",
+          "wheat": 55,
+          "rice": 0,
+          "sugar": 6,
+          "jowar": 50,
+          "fRice": 70,
+          "total": 181
+        },
+        {
+          "scheme": "AAY",
+          "date": "13-09-2026",
+          "wheat": 33,
+          "rice": 0,
+          "sugar": 4,
+          "jowar": 30,
+          "fRice": 42,
+          "total": 109
+        },
+        {
+          "scheme": "AAY",
+          "date": "14-09-2026",
+          "wheat": 88,
+          "rice": 0,
+          "sugar": 9,
+          "jowar": 80,
+          "fRice": 112,
+          "total": 289
+        },
+        {
+          "scheme": "AAY",
+          "date": "15-09-2026",
+          "wheat": 77,
+          "rice": 0,
+          "sugar": 8,
+          "jowar": 70,
+          "fRice": 98,
+          "total": 253
+        },
+        {
+          "scheme": "AAY",
+          "date": "16-09-2026",
+          "wheat": 22,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 20,
+          "fRice": 28,
+          "total": 70
+        },
+        {
+          "scheme": "AAY",
+          "date": "17-09-2026",
+          "wheat": 55,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 50,
+          "fRice": 70,
+          "total": 175
+        }
+      ],
+      "aayTotal": {
+        "wheat": 605,
+        "rice": 0,
+        "sugar": 56,
+        "jowar": 550,
+        "fRice": 770,
+        "total": 1981
+      },
+      "phhRows": [
+        {
+          "scheme": "PHH",
+          "date": "09-09-2026",
+          "wheat": 70.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 70.5,
+          "fRice": 94,
+          "total": 235
+        },
+        {
+          "scheme": "PHH",
+          "date": "10-09-2026",
+          "wheat": 169.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 169.5,
+          "fRice": 226,
+          "total": 565
+        },
+        {
+          "scheme": "PHH",
+          "date": "11-09-2026",
+          "wheat": 136.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 136.5,
+          "fRice": 182,
+          "total": 455
+        },
+        {
+          "scheme": "PHH",
+          "date": "12-09-2026",
+          "wheat": 250.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 250.5,
+          "fRice": 334,
+          "total": 835
+        },
+        {
+          "scheme": "PHH",
+          "date": "13-09-2026",
+          "wheat": 99,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 99,
+          "fRice": 132,
+          "total": 330
+        },
+        {
+          "scheme": "PHH",
+          "date": "14-09-2026",
+          "wheat": 154.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 154.5,
+          "fRice": 206,
+          "total": 515
+        },
+        {
+          "scheme": "PHH",
+          "date": "15-09-2026",
+          "wheat": 123,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 123,
+          "fRice": 164,
+          "total": 410
+        },
+        {
+          "scheme": "PHH",
+          "date": "16-09-2026",
+          "wheat": 124.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 124.5,
+          "fRice": 166,
+          "total": 415
+        },
+        {
+          "scheme": "PHH",
+          "date": "17-09-2026",
+          "wheat": 33,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 33,
+          "fRice": 44,
+          "total": 110
+        },
+        {
+          "scheme": "PHH",
+          "date": "20-09-2026",
+          "wheat": 22.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 22.5,
+          "fRice": 30,
+          "total": 75
+        },
+        {
+          "scheme": "PHH",
+          "date": "21-09-2026",
+          "wheat": 13.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 13.5,
+          "fRice": 18,
+          "total": 45
+        },
+        {
+          "scheme": "PHH",
+          "date": "22-09-2026",
+          "wheat": 19.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 19.5,
+          "fRice": 26,
+          "total": 65
+        },
+        {
+          "scheme": "PHH",
+          "date": "26-09-2026",
+          "wheat": 6,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 6,
+          "fRice": 8,
+          "total": 20
+        },
+        {
+          "scheme": "PHH",
+          "date": "27-09-2026",
+          "wheat": 7.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 7.5,
+          "fRice": 10,
+          "total": 25
+        },
+        {
+          "scheme": "PHH",
+          "date": "28-09-2026",
+          "wheat": 3,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 3,
+          "fRice": 4,
+          "total": 10
+        }
+      ],
+      "phhTotal": {
+        "wheat": 1233,
+        "rice": 0,
+        "sugar": 0,
+        "jowar": 1233,
+        "fRice": 1644,
+        "total": 4110
+      }
+    }
+  },
+  "150024600330": {
+    "2026-09": {
+      "aayRows": [
+        {
+          "scheme": "AAY",
+          "date": "13-09-2026",
+          "wheat": 77,
+          "rice": 0,
+          "sugar": 7,
+          "jowar": 70,
+          "fRice": 98,
+          "total": 252
+        },
+        {
+          "scheme": "AAY",
+          "date": "15-09-2026",
+          "wheat": 154,
+          "rice": 0,
+          "sugar": 14,
+          "jowar": 140,
+          "fRice": 196,
+          "total": 504
+        },
+        {
+          "scheme": "AAY",
+          "date": "16-09-2026",
+          "wheat": 165,
+          "rice": 0,
+          "sugar": 15,
+          "jowar": 150,
+          "fRice": 210,
+          "total": 540
+        },
+        {
+          "scheme": "AAY",
+          "date": "17-09-2026",
+          "wheat": 88,
+          "rice": 0,
+          "sugar": 8,
+          "jowar": 80,
+          "fRice": 112,
+          "total": 288
+        },
+        {
+          "scheme": "AAY",
+          "date": "18-09-2026",
+          "wheat": 77,
+          "rice": 0,
+          "sugar": 8,
+          "jowar": 70,
+          "fRice": 98,
+          "total": 253
+        },
+        {
+          "scheme": "AAY",
+          "date": "19-09-2026",
+          "wheat": 88,
+          "rice": 0,
+          "sugar": 8,
+          "jowar": 80,
+          "fRice": 112,
+          "total": 288
+        },
+        {
+          "scheme": "AAY",
+          "date": "20-09-2026",
+          "wheat": 44,
+          "rice": 0,
+          "sugar": 4,
+          "jowar": 40,
+          "fRice": 56,
+          "total": 144
+        },
+        {
+          "scheme": "AAY",
+          "date": "21-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 1,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 36
+        },
+        {
+          "scheme": "AAY",
+          "date": "27-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 1,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 36
+        }
+      ],
+      "aayTotal": {
+        "wheat": 715,
+        "rice": 0,
+        "sugar": 66,
+        "jowar": 650,
+        "fRice": 910,
+        "total": 2341
+      },
+      "phhRows": [
+        {
+          "scheme": "PHH",
+          "date": "09-09-2026",
+          "wheat": 6,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 6,
+          "fRice": 8,
+          "total": 20
+        },
+        {
+          "scheme": "PHH",
+          "date": "13-09-2026",
+          "wheat": 459,
+          "rice": 27,
+          "sugar": 0,
+          "jowar": 477,
+          "fRice": 612,
+          "total": 1575
+        },
+        {
+          "scheme": "PHH",
+          "date": "15-09-2026",
+          "wheat": 526.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 526.5,
+          "fRice": 702,
+          "total": 1755
+        },
+        {
+          "scheme": "PHH",
+          "date": "16-09-2026",
+          "wheat": 645,
+          "rice": 6,
+          "sugar": 0,
+          "jowar": 636,
+          "fRice": 848,
+          "total": 2135
+        },
+        {
+          "scheme": "PHH",
+          "date": "17-09-2026",
+          "wheat": 537.5,
+          "rice": 10,
+          "sugar": 0,
+          "jowar": 542.5,
+          "fRice": 710,
+          "total": 1800
+        },
+        {
+          "scheme": "PHH",
+          "date": "18-09-2026",
+          "wheat": 639,
+          "rice": 16,
+          "sugar": 0,
+          "jowar": 663,
+          "fRice": 852,
+          "total": 2170
+        },
+        {
+          "scheme": "PHH",
+          "date": "19-09-2026",
+          "wheat": 470.5,
+          "rice": 6,
+          "sugar": 0,
+          "jowar": 469.5,
+          "fRice": 629,
+          "total": 1575
+        },
+        {
+          "scheme": "PHH",
+          "date": "20-09-2026",
+          "wheat": 90,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 90,
+          "fRice": 120,
+          "total": 300
+        },
+        {
+          "scheme": "PHH",
+          "date": "21-09-2026",
+          "wheat": 52.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 52.5,
+          "fRice": 70,
+          "total": 175
+        },
+        {
+          "scheme": "PHH",
+          "date": "27-09-2026",
+          "wheat": 66,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 66,
+          "fRice": 88,
+          "total": 220
+        },
+        {
+          "scheme": "PHH",
+          "date": "28-09-2026",
+          "wheat": 88.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 88.5,
+          "fRice": 118,
+          "total": 295
+        },
+        {
+          "scheme": "PHH",
+          "date": "29-09-2026",
+          "wheat": 15,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 15,
+          "fRice": 20,
+          "total": 50
+        }
+      ],
+      "phhTotal": {
+        "wheat": 3595.5,
+        "rice": 65,
+        "sugar": 0,
+        "jowar": 3632.5,
+        "fRice": 4777,
+        "total": 12070
+      }
+    },
+    "2026-08": {
+      "aayRows": [
+        {
+          "scheme": "AAY",
+          "date": "13-09-2026",
+          "wheat": 77,
+          "rice": 0,
+          "sugar": 7,
+          "jowar": 70,
+          "fRice": 98,
+          "total": 252
+        },
+        {
+          "scheme": "AAY",
+          "date": "15-09-2026",
+          "wheat": 154,
+          "rice": 0,
+          "sugar": 14,
+          "jowar": 140,
+          "fRice": 196,
+          "total": 504
+        },
+        {
+          "scheme": "AAY",
+          "date": "16-09-2026",
+          "wheat": 165,
+          "rice": 0,
+          "sugar": 15,
+          "jowar": 150,
+          "fRice": 210,
+          "total": 540
+        },
+        {
+          "scheme": "AAY",
+          "date": "17-09-2026",
+          "wheat": 88,
+          "rice": 0,
+          "sugar": 8,
+          "jowar": 80,
+          "fRice": 112,
+          "total": 288
+        },
+        {
+          "scheme": "AAY",
+          "date": "18-09-2026",
+          "wheat": 77,
+          "rice": 0,
+          "sugar": 8,
+          "jowar": 70,
+          "fRice": 98,
+          "total": 253
+        },
+        {
+          "scheme": "AAY",
+          "date": "19-09-2026",
+          "wheat": 88,
+          "rice": 0,
+          "sugar": 8,
+          "jowar": 80,
+          "fRice": 112,
+          "total": 288
+        },
+        {
+          "scheme": "AAY",
+          "date": "20-09-2026",
+          "wheat": 44,
+          "rice": 0,
+          "sugar": 4,
+          "jowar": 40,
+          "fRice": 56,
+          "total": 144
+        },
+        {
+          "scheme": "AAY",
+          "date": "21-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 1,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 36
+        },
+        {
+          "scheme": "AAY",
+          "date": "27-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 1,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 36
+        }
+      ],
+      "aayTotal": {
+        "wheat": 715,
+        "rice": 0,
+        "sugar": 66,
+        "jowar": 650,
+        "fRice": 910,
+        "total": 2341
+      },
+      "phhRows": [
+        {
+          "scheme": "PHH",
+          "date": "09-09-2026",
+          "wheat": 6,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 6,
+          "fRice": 8,
+          "total": 20
+        },
+        {
+          "scheme": "PHH",
+          "date": "13-09-2026",
+          "wheat": 459,
+          "rice": 27,
+          "sugar": 0,
+          "jowar": 477,
+          "fRice": 612,
+          "total": 1575
+        },
+        {
+          "scheme": "PHH",
+          "date": "15-09-2026",
+          "wheat": 526.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 526.5,
+          "fRice": 702,
+          "total": 1755
+        },
+        {
+          "scheme": "PHH",
+          "date": "16-09-2026",
+          "wheat": 645,
+          "rice": 6,
+          "sugar": 0,
+          "jowar": 636,
+          "fRice": 848,
+          "total": 2135
+        },
+        {
+          "scheme": "PHH",
+          "date": "17-09-2026",
+          "wheat": 537.5,
+          "rice": 10,
+          "sugar": 0,
+          "jowar": 542.5,
+          "fRice": 710,
+          "total": 1800
+        },
+        {
+          "scheme": "PHH",
+          "date": "18-09-2026",
+          "wheat": 639,
+          "rice": 16,
+          "sugar": 0,
+          "jowar": 663,
+          "fRice": 852,
+          "total": 2170
+        },
+        {
+          "scheme": "PHH",
+          "date": "19-09-2026",
+          "wheat": 470.5,
+          "rice": 6,
+          "sugar": 0,
+          "jowar": 469.5,
+          "fRice": 629,
+          "total": 1575
+        },
+        {
+          "scheme": "PHH",
+          "date": "20-09-2026",
+          "wheat": 90,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 90,
+          "fRice": 120,
+          "total": 300
+        },
+        {
+          "scheme": "PHH",
+          "date": "21-09-2026",
+          "wheat": 52.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 52.5,
+          "fRice": 70,
+          "total": 175
+        },
+        {
+          "scheme": "PHH",
+          "date": "27-09-2026",
+          "wheat": 66,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 66,
+          "fRice": 88,
+          "total": 220
+        },
+        {
+          "scheme": "PHH",
+          "date": "28-09-2026",
+          "wheat": 88.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 88.5,
+          "fRice": 118,
+          "total": 295
+        },
+        {
+          "scheme": "PHH",
+          "date": "29-09-2026",
+          "wheat": 15,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 15,
+          "fRice": 20,
+          "total": 50
+        }
+      ],
+      "phhTotal": {
+        "wheat": 3595.5,
+        "rice": 65,
+        "sugar": 0,
+        "jowar": 3632.5,
+        "fRice": 4777,
+        "total": 12070
+      }
+    }
+  },
+  "150024600331": {
+    "2026-09": {
+      "aayRows": [
+        {
+          "scheme": "AAY",
+          "date": "11-09-2026",
+          "wheat": 198,
+          "rice": 0,
+          "sugar": 18,
+          "jowar": 180,
+          "fRice": 252,
+          "total": 648
+        },
+        {
+          "scheme": "AAY",
+          "date": "12-09-2026",
+          "wheat": 209,
+          "rice": 0,
+          "sugar": 19,
+          "jowar": 190,
+          "fRice": 266,
+          "total": 684
+        },
+        {
+          "scheme": "AAY",
+          "date": "13-09-2026",
+          "wheat": 154,
+          "rice": 0,
+          "sugar": 14,
+          "jowar": 140,
+          "fRice": 196,
+          "total": 504
+        },
+        {
+          "scheme": "AAY",
+          "date": "14-09-2026",
+          "wheat": 110,
+          "rice": 0,
+          "sugar": 6,
+          "jowar": 100,
+          "fRice": 140,
+          "total": 356
+        },
+        {
+          "scheme": "AAY",
+          "date": "15-09-2026",
+          "wheat": 0,
+          "rice": 6,
+          "sugar": 0,
+          "jowar": 5,
+          "fRice": 0,
+          "total": 11
+        }
+      ],
+      "aayTotal": {
+        "wheat": 671,
+        "rice": 6,
+        "sugar": 57,
+        "jowar": 615,
+        "fRice": 854,
+        "total": 2203
+      },
+      "phhRows": [
+        {
+          "scheme": "PHH",
+          "date": "11-09-2026",
+          "wheat": 588,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 588,
+          "fRice": 784,
+          "total": 1960
+        },
+        {
+          "scheme": "PHH",
+          "date": "12-09-2026",
+          "wheat": 611,
+          "rice": 4,
+          "sugar": 0,
+          "jowar": 613,
+          "fRice": 812,
+          "total": 2040
+        },
+        {
+          "scheme": "PHH",
+          "date": "13-09-2026",
+          "wheat": 432,
+          "rice": 14,
+          "sugar": 0,
+          "jowar": 442,
+          "fRice": 576,
+          "total": 1464
+        },
+        {
+          "scheme": "PHH",
+          "date": "14-09-2026",
+          "wheat": 238.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 238.5,
+          "fRice": 318,
+          "total": 795
+        },
+        {
+          "scheme": "PHH",
+          "date": "15-09-2026",
+          "wheat": 69,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 69,
+          "fRice": 92,
+          "total": 230
+        },
+        {
+          "scheme": "PHH",
+          "date": "16-09-2026",
+          "wheat": 73.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 73.5,
+          "fRice": 98,
+          "total": 245
+        },
+        {
+          "scheme": "PHH",
+          "date": "17-09-2026",
+          "wheat": 45,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 45,
+          "fRice": 60,
+          "total": 150
+        }
+      ],
+      "phhTotal": {
+        "wheat": 2057,
+        "rice": 18,
+        "sugar": 0,
+        "jowar": 2069,
+        "fRice": 2740,
+        "total": 6884
+      }
+    },
+    "2026-08": {
+      "aayRows": [
+        {
+          "scheme": "AAY",
+          "date": "11-09-2026",
+          "wheat": 198,
+          "rice": 0,
+          "sugar": 18,
+          "jowar": 180,
+          "fRice": 252,
+          "total": 648
+        },
+        {
+          "scheme": "AAY",
+          "date": "12-09-2026",
+          "wheat": 209,
+          "rice": 0,
+          "sugar": 19,
+          "jowar": 190,
+          "fRice": 266,
+          "total": 684
+        },
+        {
+          "scheme": "AAY",
+          "date": "13-09-2026",
+          "wheat": 154,
+          "rice": 0,
+          "sugar": 14,
+          "jowar": 140,
+          "fRice": 196,
+          "total": 504
+        },
+        {
+          "scheme": "AAY",
+          "date": "14-09-2026",
+          "wheat": 110,
+          "rice": 0,
+          "sugar": 6,
+          "jowar": 100,
+          "fRice": 140,
+          "total": 356
+        },
+        {
+          "scheme": "AAY",
+          "date": "15-09-2026",
+          "wheat": 0,
+          "rice": 6,
+          "sugar": 0,
+          "jowar": 5,
+          "fRice": 0,
+          "total": 11
+        }
+      ],
+      "aayTotal": {
+        "wheat": 671,
+        "rice": 6,
+        "sugar": 57,
+        "jowar": 615,
+        "fRice": 854,
+        "total": 2203
+      },
+      "phhRows": [
+        {
+          "scheme": "PHH",
+          "date": "11-09-2026",
+          "wheat": 588,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 588,
+          "fRice": 784,
+          "total": 1960
+        },
+        {
+          "scheme": "PHH",
+          "date": "12-09-2026",
+          "wheat": 611,
+          "rice": 4,
+          "sugar": 0,
+          "jowar": 613,
+          "fRice": 812,
+          "total": 2040
+        },
+        {
+          "scheme": "PHH",
+          "date": "13-09-2026",
+          "wheat": 432,
+          "rice": 14,
+          "sugar": 0,
+          "jowar": 442,
+          "fRice": 576,
+          "total": 1464
+        },
+        {
+          "scheme": "PHH",
+          "date": "14-09-2026",
+          "wheat": 238.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 238.5,
+          "fRice": 318,
+          "total": 795
+        },
+        {
+          "scheme": "PHH",
+          "date": "15-09-2026",
+          "wheat": 69,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 69,
+          "fRice": 92,
+          "total": 230
+        },
+        {
+          "scheme": "PHH",
+          "date": "16-09-2026",
+          "wheat": 73.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 73.5,
+          "fRice": 98,
+          "total": 245
+        },
+        {
+          "scheme": "PHH",
+          "date": "17-09-2026",
+          "wheat": 45,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 45,
+          "fRice": 60,
+          "total": 150
+        }
+      ],
+      "phhTotal": {
+        "wheat": 2057,
+        "rice": 18,
+        "sugar": 0,
+        "jowar": 2069,
+        "fRice": 2740,
+        "total": 6884
+      }
+    }
+  },
+  "150024600359": {
+    "2026-09": {
+      "aayRows": [
+        {
+          "scheme": "AAY",
+          "date": "15-09-2026",
+          "wheat": 110,
+          "rice": 0,
+          "sugar": 16,
+          "jowar": 100,
+          "fRice": 140,
+          "total": 366
+        },
+        {
+          "scheme": "AAY",
+          "date": "16-09-2026",
+          "wheat": 132,
+          "rice": 0,
+          "sugar": 23,
+          "jowar": 120,
+          "fRice": 168,
+          "total": 443
+        },
+        {
+          "scheme": "AAY",
+          "date": "19-09-2026",
+          "wheat": 55,
+          "rice": 0,
+          "sugar": 1,
+          "jowar": 50,
+          "fRice": 70,
+          "total": 176
+        },
+        {
+          "scheme": "AAY",
+          "date": "21-09-2026",
+          "wheat": 44,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 40,
+          "fRice": 56,
+          "total": 140
+        },
+        {
+          "scheme": "AAY",
+          "date": "22-09-2026",
+          "wheat": 22,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 20,
+          "fRice": 28,
+          "total": 70
+        },
+        {
+          "scheme": "AAY",
+          "date": "25-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 35
+        },
+        {
+          "scheme": "AAY",
+          "date": "29-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 10,
+          "fRice": 0,
+          "total": 21
+        }
+      ],
+      "aayTotal": {
+        "wheat": 385,
+        "rice": 0,
+        "sugar": 40,
+        "jowar": 350,
+        "fRice": 476,
+        "total": 1251
+      },
+      "phhRows": [
+        {
+          "scheme": "PHH",
+          "date": "15-09-2026",
+          "wheat": 420.5,
+          "rice": 16,
+          "sugar": 0,
+          "jowar": 419.5,
+          "fRice": 544,
+          "total": 1400
+        },
+        {
+          "scheme": "PHH",
+          "date": "16-09-2026",
+          "wheat": 310.5,
+          "rice": 24,
+          "sugar": 0,
+          "jowar": 326.5,
+          "fRice": 414,
+          "total": 1075
+        },
+        {
+          "scheme": "PHH",
+          "date": "19-09-2026",
+          "wheat": 205.5,
+          "rice": 24,
+          "sugar": 0,
+          "jowar": 221.5,
+          "fRice": 274,
+          "total": 725
+        },
+        {
+          "scheme": "PHH",
+          "date": "21-09-2026",
+          "wheat": 235.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 235.5,
+          "fRice": 314,
+          "total": 785
+        },
+        {
+          "scheme": "PHH",
+          "date": "22-09-2026",
+          "wheat": 205.5,
+          "rice": 6,
+          "sugar": 0,
+          "jowar": 209.5,
+          "fRice": 274,
+          "total": 695
+        },
+        {
+          "scheme": "PHH",
+          "date": "23-09-2026",
+          "wheat": 105,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 105,
+          "fRice": 140,
+          "total": 350
+        },
+        {
+          "scheme": "PHH",
+          "date": "24-09-2026",
+          "wheat": 75,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 75,
+          "fRice": 100,
+          "total": 250
+        },
+        {
+          "scheme": "PHH",
+          "date": "25-09-2026",
+          "wheat": 21,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 21,
+          "fRice": 28,
+          "total": 70
+        },
+        {
+          "scheme": "PHH",
+          "date": "28-09-2026",
+          "wheat": 57,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 57,
+          "fRice": 76,
+          "total": 190
+        },
+        {
+          "scheme": "PHH",
+          "date": "29-09-2026",
+          "wheat": 49.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 41.5,
+          "fRice": 62,
+          "total": 153
+        },
+        {
+          "scheme": "PHH",
+          "date": "30-09-2026",
+          "wheat": 26,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 0,
+          "fRice": 0,
+          "total": 26
+        }
+      ],
+      "phhTotal": {
+        "wheat": 1711,
+        "rice": 70,
+        "sugar": 0,
+        "jowar": 1712,
+        "fRice": 2226,
+        "total": 5719
+      }
+    },
+    "2026-08": {
+      "aayRows": [
+        {
+          "scheme": "AAY",
+          "date": "15-09-2026",
+          "wheat": 110,
+          "rice": 0,
+          "sugar": 16,
+          "jowar": 100,
+          "fRice": 140,
+          "total": 366
+        },
+        {
+          "scheme": "AAY",
+          "date": "16-09-2026",
+          "wheat": 132,
+          "rice": 0,
+          "sugar": 23,
+          "jowar": 120,
+          "fRice": 168,
+          "total": 443
+        },
+        {
+          "scheme": "AAY",
+          "date": "19-09-2026",
+          "wheat": 55,
+          "rice": 0,
+          "sugar": 1,
+          "jowar": 50,
+          "fRice": 70,
+          "total": 176
+        },
+        {
+          "scheme": "AAY",
+          "date": "21-09-2026",
+          "wheat": 44,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 40,
+          "fRice": 56,
+          "total": 140
+        },
+        {
+          "scheme": "AAY",
+          "date": "22-09-2026",
+          "wheat": 22,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 20,
+          "fRice": 28,
+          "total": 70
+        },
+        {
+          "scheme": "AAY",
+          "date": "25-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 10,
+          "fRice": 14,
+          "total": 35
+        },
+        {
+          "scheme": "AAY",
+          "date": "29-09-2026",
+          "wheat": 11,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 10,
+          "fRice": 0,
+          "total": 21
+        }
+      ],
+      "aayTotal": {
+        "wheat": 385,
+        "rice": 0,
+        "sugar": 40,
+        "jowar": 350,
+        "fRice": 476,
+        "total": 1251
+      },
+      "phhRows": [
+        {
+          "scheme": "PHH",
+          "date": "15-09-2026",
+          "wheat": 420.5,
+          "rice": 16,
+          "sugar": 0,
+          "jowar": 419.5,
+          "fRice": 544,
+          "total": 1400
+        },
+        {
+          "scheme": "PHH",
+          "date": "16-09-2026",
+          "wheat": 310.5,
+          "rice": 24,
+          "sugar": 0,
+          "jowar": 326.5,
+          "fRice": 414,
+          "total": 1075
+        },
+        {
+          "scheme": "PHH",
+          "date": "19-09-2026",
+          "wheat": 205.5,
+          "rice": 24,
+          "sugar": 0,
+          "jowar": 221.5,
+          "fRice": 274,
+          "total": 725
+        },
+        {
+          "scheme": "PHH",
+          "date": "21-09-2026",
+          "wheat": 235.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 235.5,
+          "fRice": 314,
+          "total": 785
+        },
+        {
+          "scheme": "PHH",
+          "date": "22-09-2026",
+          "wheat": 205.5,
+          "rice": 6,
+          "sugar": 0,
+          "jowar": 209.5,
+          "fRice": 274,
+          "total": 695
+        },
+        {
+          "scheme": "PHH",
+          "date": "23-09-2026",
+          "wheat": 105,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 105,
+          "fRice": 140,
+          "total": 350
+        },
+        {
+          "scheme": "PHH",
+          "date": "24-09-2026",
+          "wheat": 75,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 75,
+          "fRice": 100,
+          "total": 250
+        },
+        {
+          "scheme": "PHH",
+          "date": "25-09-2026",
+          "wheat": 21,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 21,
+          "fRice": 28,
+          "total": 70
+        },
+        {
+          "scheme": "PHH",
+          "date": "28-09-2026",
+          "wheat": 57,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 57,
+          "fRice": 76,
+          "total": 190
+        },
+        {
+          "scheme": "PHH",
+          "date": "29-09-2026",
+          "wheat": 49.5,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 41.5,
+          "fRice": 62,
+          "total": 153
+        },
+        {
+          "scheme": "PHH",
+          "date": "30-09-2026",
+          "wheat": 26,
+          "rice": 0,
+          "sugar": 0,
+          "jowar": 0,
+          "fRice": 0,
+          "total": 26
+        }
+      ],
+      "phhTotal": {
+        "wheat": 1711,
+        "rice": 70,
+        "sugar": 0,
+        "jowar": 1712,
+        "fRice": 2226,
+        "total": 5719
+      }
+    }
+  }
+}

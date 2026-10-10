@@ -1,0 +1,17 @@
+{
+  "name": "Mehkar Ration Shop AePDS Portal",
+  "short_name": "AePDS Mehkar",
+  "description": "सार्वजनिक वितरण प्रणाली (AePDS) - बुलढाणा (मेहकर) थेट ई-पॉस डेटा व रेशन दुकाने लाईव्ह ट्रॅकर",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ba4305",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}

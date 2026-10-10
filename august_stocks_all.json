@@ -1,0 +1,6596 @@
+{
+  "150024600318": {
+    "Wheat": {
+      "units": "Kgs",
+      "ob": 400,
+      "rec": 3711,
+      "iss": 3518,
+      "cb": 593
+    },
+    "Rice": {
+      "units": "Kgs",
+      "ob": -126,
+      "rec": 0,
+      "iss": 92,
+      "cb": -218
+    },
+    "Sugar": {
+      "units": "Kgs",
+      "ob": 18,
+      "rec": 170,
+      "iss": 148,
+      "cb": 40
+    },
+    "Black Gram": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Poil": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Peas Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Foodgrain Kit": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Anandacha Shidha": {
+      "units": "PKTS",
+      "ob": -576,
+      "rec": 0,
+      "iss": 0,
+      "cb": -576
+    },
+    "SAREE": {
+      "units": "PKTS",
+      "ob": 69,
+      "rec": 0,
+      "iss": 65,
+      "cb": 4
+    },
+    "May-Wheat": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "May-Rice": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "MAY-Sugar": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "May-K Oil": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "May-DalChana": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Chana Whole": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "K Oil": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Bajara": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Maize OLD": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Jwari": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat-carry": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice-carry": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Sugar-carry": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "CoarseGrain-carry": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat-PMGKAY CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice-PMGKAY CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Toor Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Urad Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Channa Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat-PMGKAY MAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice-PMGKAY MAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat MAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice MAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Dal-PMGKAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Old Toor Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Old Urad Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Old Chana Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Dal-FREE": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Maize": {
+      "units": "Kgs",
+      "ob": 149,
+      "rec": 0,
+      "iss": 26,
+      "cb": 123
+    },
+    "Jowar": {
+      "units": "Kgs",
+      "ob": 486,
+      "rec": 3620,
+      "iss": 3435,
+      "cb": 671
+    },
+    "Bajra": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Ragi": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat-PMGKAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice-PMGKAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "FRice": {
+      "units": "Kgs",
+      "ob": 126,
+      "rec": 4884,
+      "iss": 4594,
+      "cb": 416
+    },
+    "Coarse Grain": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest Sugar": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest POil": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest Rava": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest Bag": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest Chana Dal": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "May-Coarse Grain": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Anandacha Shidha Sugar": {
+      "units": "PKTS",
+      "ob": 50,
+      "rec": 0,
+      "iss": 0,
+      "cb": 50
+    },
+    "Anandacha Shidha POil": {
+      "units": "PKTS",
+      "ob": 7,
+      "rec": 0,
+      "iss": 0,
+      "cb": 7
+    },
+    "Anandacha Shidha Rava": {
+      "units": "PKTS",
+      "ob": 50,
+      "rec": 0,
+      "iss": 0,
+      "cb": 50
+    },
+    "Anandacha Shidha Bag": {
+      "units": "PKTS",
+      "ob": 50,
+      "rec": 0,
+      "iss": 0,
+      "cb": 50
+    },
+    "Anandacha Soybean Oil": {
+      "units": "PKTS",
+      "ob": 43,
+      "rec": 0,
+      "iss": 0,
+      "cb": 43
+    },
+    "Anandacha Shidha Chana Dal": {
+      "units": "PKTS",
+      "ob": 43,
+      "rec": 0,
+      "iss": 0,
+      "cb": 43
+    },
+    "A S Half kg Rava": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "PMGKAY Bag": {
+      "units": "PKTS",
+      "ob": 256,
+      "rec": 0,
+      "iss": 0,
+      "cb": 256
+    },
+    "A S Half Kg Chana Dal": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "A S Half Kg Maida": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "A S Half Kg Pohe": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Maize CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Jowar CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Bajra CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Ragi CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    }
+  },
+  "150024600319": {
+    "Wheat": {
+      "units": "Kgs",
+      "ob": 7099,
+      "rec": 0,
+      "iss": 2589.5,
+      "cb": 4509.5
+    },
+    "Rice": {
+      "units": "Kgs",
+      "ob": -29,
+      "rec": 0,
+      "iss": 47,
+      "cb": -76
+    },
+    "Sugar": {
+      "units": "Kgs",
+      "ob": 159,
+      "rec": 0,
+      "iss": 120,
+      "cb": 39
+    },
+    "Black Gram": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Poil": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Peas Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Foodgrain Kit": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Anandacha Shidha": {
+      "units": "PKTS",
+      "ob": -858,
+      "rec": 0,
+      "iss": 0,
+      "cb": -858
+    },
+    "SAREE": {
+      "units": "PKTS",
+      "ob": 12,
+      "rec": 0,
+      "iss": 2,
+      "cb": 10
+    },
+    "May-Wheat": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "May-Rice": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "MAY-Sugar": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "May-K Oil": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "May-DalChana": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Chana Whole": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "K Oil": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Bajara": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Maize OLD": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Jwari": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat-carry": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice-carry": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Sugar-carry": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "CoarseGrain-carry": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat-PMGKAY CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice-PMGKAY CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Toor Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Urad Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Channa Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat-PMGKAY MAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice-PMGKAY MAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat MAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice MAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Dal-PMGKAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Old Toor Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Old Urad Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Old Chana Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Dal-FREE": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Maize": {
+      "units": "Kgs",
+      "ob": 949,
+      "rec": 0,
+      "iss": 12,
+      "cb": 937
+    },
+    "Jowar": {
+      "units": "Kgs",
+      "ob": 5677,
+      "rec": 0,
+      "iss": 2548.5,
+      "cb": 3128.5
+    },
+    "Bajra": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Ragi": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat-PMGKAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice-PMGKAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "FRice": {
+      "units": "Kgs",
+      "ob": 8819,
+      "rec": 0,
+      "iss": 3402,
+      "cb": 5417
+    },
+    "Coarse Grain": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest Sugar": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest POil": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest Rava": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest Bag": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest Chana Dal": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "May-Coarse Grain": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Anandacha Shidha Sugar": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Anandacha Shidha POil": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Anandacha Shidha Rava": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Anandacha Shidha Bag": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Anandacha Soybean Oil": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Anandacha Shidha Chana Dal": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "A S Half kg Rava": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "PMGKAY Bag": {
+      "units": "PKTS",
+      "ob": 377,
+      "rec": 0,
+      "iss": 0,
+      "cb": 377
+    },
+    "A S Half Kg Chana Dal": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "A S Half Kg Maida": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "A S Half Kg Pohe": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Maize CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Jowar CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Bajra CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Ragi CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    }
+  },
+  "150024600320": {
+    "Wheat": {
+      "units": "Kgs",
+      "ob": 155,
+      "rec": 4983,
+      "iss": 4863.5,
+      "cb": 274.5
+    },
+    "Rice": {
+      "units": "Kgs",
+      "ob": -102,
+      "rec": 0,
+      "iss": 193,
+      "cb": -295
+    },
+    "Sugar": {
+      "units": "Kgs",
+      "ob": 39,
+      "rec": 162,
+      "iss": 154,
+      "cb": 47
+    },
+    "Black Gram": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Poil": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Peas Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Foodgrain Kit": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Anandacha Shidha": {
+      "units": "PKTS",
+      "ob": -1258,
+      "rec": 0,
+      "iss": 0,
+      "cb": -1258
+    },
+    "SAREE": {
+      "units": "PKTS",
+      "ob": 15,
+      "rec": 0,
+      "iss": 15,
+      "cb": 0
+    },
+    "May-Wheat": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "May-Rice": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "MAY-Sugar": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "May-K Oil": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "May-DalChana": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Chana Whole": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "K Oil": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Bajara": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Maize OLD": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Jwari": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat-carry": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice-carry": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Sugar-carry": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "CoarseGrain-carry": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat-PMGKAY CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice-PMGKAY CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Toor Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Urad Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Channa Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat-PMGKAY MAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice-PMGKAY MAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat MAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice MAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Dal-PMGKAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Old Toor Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Old Urad Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Old Chana Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Dal-FREE": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Maize": {
+      "units": "Kgs",
+      "ob": 133,
+      "rec": 0,
+      "iss": 12.5,
+      "cb": 120.5
+    },
+    "Jowar": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 4882,
+      "iss": 4882,
+      "cb": 0
+    },
+    "Bajra": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Ragi": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat-PMGKAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice-PMGKAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "FRice": {
+      "units": "Kgs",
+      "ob": 367,
+      "rec": 6626,
+      "iss": 6384,
+      "cb": 609
+    },
+    "Coarse Grain": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest Sugar": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest POil": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest Rava": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest Bag": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest Chana Dal": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "May-Coarse Grain": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Anandacha Shidha Sugar": {
+      "units": "PKTS",
+      "ob": 24,
+      "rec": 0,
+      "iss": 0,
+      "cb": 24
+    },
+    "Anandacha Shidha POil": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Anandacha Shidha Rava": {
+      "units": "PKTS",
+      "ob": 24,
+      "rec": 0,
+      "iss": 0,
+      "cb": 24
+    },
+    "Anandacha Shidha Bag": {
+      "units": "PKTS",
+      "ob": 24,
+      "rec": 0,
+      "iss": 0,
+      "cb": 24
+    },
+    "Anandacha Soybean Oil": {
+      "units": "PKTS",
+      "ob": 24,
+      "rec": 0,
+      "iss": 0,
+      "cb": 24
+    },
+    "Anandacha Shidha Chana Dal": {
+      "units": "PKTS",
+      "ob": 24,
+      "rec": 0,
+      "iss": 0,
+      "cb": 24
+    },
+    "A S Half kg Rava": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "PMGKAY Bag": {
+      "units": "PKTS",
+      "ob": 8,
+      "rec": 0,
+      "iss": 0,
+      "cb": 8
+    },
+    "A S Half Kg Chana Dal": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "A S Half Kg Maida": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "A S Half Kg Pohe": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Maize CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Jowar CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Bajra CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Ragi CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    }
+  },
+  "150024600322": {
+    "Wheat": {
+      "units": "Kgs",
+      "ob": 210,
+      "rec": 3164,
+      "iss": 2987.5,
+      "cb": 386.5
+    },
+    "Rice": {
+      "units": "Kgs",
+      "ob": -102,
+      "rec": 0,
+      "iss": 88,
+      "cb": -190
+    },
+    "Sugar": {
+      "units": "Kgs",
+      "ob": 64,
+      "rec": 182,
+      "iss": 166,
+      "cb": 80
+    },
+    "Black Gram": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Poil": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Peas Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Foodgrain Kit": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Anandacha Shidha": {
+      "units": "PKTS",
+      "ob": -834,
+      "rec": 0,
+      "iss": 0,
+      "cb": -834
+    },
+    "SAREE": {
+      "units": "PKTS",
+      "ob": 14,
+      "rec": 0,
+      "iss": 10,
+      "cb": 4
+    },
+    "May-Wheat": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "May-Rice": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "MAY-Sugar": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "May-K Oil": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "May-DalChana": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Chana Whole": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "K Oil": {
+      "units": "Kgs",
+      "ob": 3,
+      "rec": 0,
+      "iss": 0,
+      "cb": 3
+    },
+    "Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Bajara": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Maize OLD": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Jwari": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat-carry": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice-carry": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Sugar-carry": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "CoarseGrain-carry": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat-PMGKAY CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice-PMGKAY CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Toor Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Urad Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Channa Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat-PMGKAY MAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice-PMGKAY MAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat MAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice MAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Dal-PMGKAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Old Toor Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Old Urad Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Old Chana Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Dal-FREE": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Maize": {
+      "units": "Kgs",
+      "ob": 217,
+      "rec": 0,
+      "iss": 54.5,
+      "cb": 162.5
+    },
+    "Jowar": {
+      "units": "Kgs",
+      "ob": 253,
+      "rec": 3043,
+      "iss": 2915,
+      "cb": 381
+    },
+    "Bajra": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Ragi": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat-PMGKAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice-PMGKAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "FRice": {
+      "units": "Kgs",
+      "ob": 854,
+      "rec": 3158,
+      "iss": 3822,
+      "cb": 190
+    },
+    "Coarse Grain": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest Sugar": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest POil": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest Rava": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest Bag": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest Chana Dal": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "May-Coarse Grain": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Anandacha Shidha Sugar": {
+      "units": "PKTS",
+      "ob": 14,
+      "rec": 0,
+      "iss": 0,
+      "cb": 14
+    },
+    "Anandacha Shidha POil": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Anandacha Shidha Rava": {
+      "units": "PKTS",
+      "ob": 14,
+      "rec": 0,
+      "iss": 0,
+      "cb": 14
+    },
+    "Anandacha Shidha Bag": {
+      "units": "PKTS",
+      "ob": 14,
+      "rec": 0,
+      "iss": 0,
+      "cb": 14
+    },
+    "Anandacha Soybean Oil": {
+      "units": "PKTS",
+      "ob": 14,
+      "rec": 0,
+      "iss": 0,
+      "cb": 14
+    },
+    "Anandacha Shidha Chana Dal": {
+      "units": "PKTS",
+      "ob": 14,
+      "rec": 0,
+      "iss": 0,
+      "cb": 14
+    },
+    "A S Half kg Rava": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "PMGKAY Bag": {
+      "units": "PKTS",
+      "ob": 136,
+      "rec": 0,
+      "iss": 0,
+      "cb": 136
+    },
+    "A S Half Kg Chana Dal": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "A S Half Kg Maida": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "A S Half Kg Pohe": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Maize CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Jowar CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Bajra CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Ragi CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    }
+  },
+  "150024600323": {
+    "Wheat": {
+      "units": "Kgs",
+      "ob": 1135,
+      "rec": 3231,
+      "iss": 3122,
+      "cb": 1244
+    },
+    "Rice": {
+      "units": "Kgs",
+      "ob": -22,
+      "rec": 0,
+      "iss": 27,
+      "cb": -49
+    },
+    "Sugar": {
+      "units": "Kgs",
+      "ob": 30,
+      "rec": 124,
+      "iss": 121,
+      "cb": 33
+    },
+    "Black Gram": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Poil": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Peas Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Foodgrain Kit": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Anandacha Shidha": {
+      "units": "PKTS",
+      "ob": -907,
+      "rec": 0,
+      "iss": 0,
+      "cb": -907
+    },
+    "SAREE": {
+      "units": "PKTS",
+      "ob": 34,
+      "rec": 0,
+      "iss": 33,
+      "cb": 1
+    },
+    "May-Wheat": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "May-Rice": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "MAY-Sugar": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "May-K Oil": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "May-DalChana": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Chana Whole": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "K Oil": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Bajara": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Maize OLD": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Jwari": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat-carry": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice-carry": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Sugar-carry": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "CoarseGrain-carry": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat-PMGKAY CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice-PMGKAY CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Toor Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Urad Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Channa Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat-PMGKAY MAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice-PMGKAY MAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat MAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice MAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Dal-PMGKAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Old Toor Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Old Urad Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Old Chana Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Dal-FREE": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Maize": {
+      "units": "Kgs",
+      "ob": 80,
+      "rec": 0,
+      "iss": 7.5,
+      "cb": 72.5
+    },
+    "Jowar": {
+      "units": "Kgs",
+      "ob": 951,
+      "rec": 3182,
+      "iss": 3071.5,
+      "cb": 1061.5
+    },
+    "Bajra": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Ragi": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat-PMGKAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice-PMGKAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "FRice": {
+      "units": "Kgs",
+      "ob": 2182,
+      "rec": 4284,
+      "iss": 4122,
+      "cb": 2344
+    },
+    "Coarse Grain": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest Sugar": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest POil": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest Rava": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest Bag": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest Chana Dal": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "May-Coarse Grain": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Anandacha Shidha Sugar": {
+      "units": "PKTS",
+      "ob": 32,
+      "rec": 0,
+      "iss": 0,
+      "cb": 32
+    },
+    "Anandacha Shidha POil": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Anandacha Shidha Rava": {
+      "units": "PKTS",
+      "ob": 26,
+      "rec": 0,
+      "iss": 0,
+      "cb": 26
+    },
+    "Anandacha Shidha Bag": {
+      "units": "PKTS",
+      "ob": 26,
+      "rec": 0,
+      "iss": 0,
+      "cb": 26
+    },
+    "Anandacha Soybean Oil": {
+      "units": "PKTS",
+      "ob": 26,
+      "rec": 0,
+      "iss": 0,
+      "cb": 26
+    },
+    "Anandacha Shidha Chana Dal": {
+      "units": "PKTS",
+      "ob": 26,
+      "rec": 0,
+      "iss": 0,
+      "cb": 26
+    },
+    "A S Half kg Rava": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "PMGKAY Bag": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "A S Half Kg Chana Dal": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "A S Half Kg Maida": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "A S Half Kg Pohe": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Maize CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Jowar CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Bajra CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Ragi CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    }
+  },
+  "150024600324": {
+    "Wheat": {
+      "units": "Kgs",
+      "ob": 4128,
+      "rec": 0,
+      "iss": 3719.5,
+      "cb": 408.5
+    },
+    "Rice": {
+      "units": "Kgs",
+      "ob": -38,
+      "rec": 0,
+      "iss": 89,
+      "cb": -127
+    },
+    "Sugar": {
+      "units": "Kgs",
+      "ob": 122,
+      "rec": 0,
+      "iss": 118,
+      "cb": 4
+    },
+    "Black Gram": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Poil": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Peas Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Foodgrain Kit": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Anandacha Shidha": {
+      "units": "PKTS",
+      "ob": -1101,
+      "rec": 0,
+      "iss": 0,
+      "cb": -1101
+    },
+    "SAREE": {
+      "units": "PKTS",
+      "ob": 1,
+      "rec": 0,
+      "iss": 1,
+      "cb": 0
+    },
+    "May-Wheat": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "May-Rice": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "MAY-Sugar": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "May-K Oil": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "May-DalChana": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Chana Whole": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "K Oil": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Bajara": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Maize OLD": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Jwari": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat-carry": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice-carry": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Sugar-carry": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "CoarseGrain-carry": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat-PMGKAY CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice-PMGKAY CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Toor Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Urad Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Channa Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat-PMGKAY MAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice-PMGKAY MAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat MAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice MAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Dal-PMGKAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Old Toor Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Old Urad Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Old Chana Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Dal-FREE": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Maize": {
+      "units": "Kgs",
+      "ob": 77,
+      "rec": 0,
+      "iss": 33,
+      "cb": 44
+    },
+    "Jowar": {
+      "units": "Kgs",
+      "ob": 3729,
+      "rec": 0,
+      "iss": 3596.5,
+      "cb": 132.5
+    },
+    "Bajra": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Ragi": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat-PMGKAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice-PMGKAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "FRice": {
+      "units": "Kgs",
+      "ob": 5287,
+      "rec": 0,
+      "iss": 4892,
+      "cb": 395
+    },
+    "Coarse Grain": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest Sugar": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest POil": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest Rava": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest Bag": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest Chana Dal": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "May-Coarse Grain": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Anandacha Shidha Sugar": {
+      "units": "PKTS",
+      "ob": 25,
+      "rec": 0,
+      "iss": 0,
+      "cb": 25
+    },
+    "Anandacha Shidha POil": {
+      "units": "PKTS",
+      "ob": 7,
+      "rec": 0,
+      "iss": 0,
+      "cb": 7
+    },
+    "Anandacha Shidha Rava": {
+      "units": "PKTS",
+      "ob": 18,
+      "rec": 0,
+      "iss": 0,
+      "cb": 18
+    },
+    "Anandacha Shidha Bag": {
+      "units": "PKTS",
+      "ob": 25,
+      "rec": 0,
+      "iss": 0,
+      "cb": 25
+    },
+    "Anandacha Soybean Oil": {
+      "units": "PKTS",
+      "ob": 18,
+      "rec": 0,
+      "iss": 0,
+      "cb": 18
+    },
+    "Anandacha Shidha Chana Dal": {
+      "units": "PKTS",
+      "ob": 18,
+      "rec": 0,
+      "iss": 0,
+      "cb": 18
+    },
+    "A S Half kg Rava": {
+      "units": "PKTS",
+      "ob": 7,
+      "rec": 0,
+      "iss": 0,
+      "cb": 7
+    },
+    "PMGKAY Bag": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "A S Half Kg Chana Dal": {
+      "units": "PKTS",
+      "ob": 7,
+      "rec": 0,
+      "iss": 0,
+      "cb": 7
+    },
+    "A S Half Kg Maida": {
+      "units": "PKTS",
+      "ob": 7,
+      "rec": 0,
+      "iss": 0,
+      "cb": 7
+    },
+    "A S Half Kg Pohe": {
+      "units": "PKTS",
+      "ob": 7,
+      "rec": 0,
+      "iss": 0,
+      "cb": 7
+    },
+    "Maize CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Jowar CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Bajra CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Ragi CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    }
+  },
+  "150024600325": {
+    "Wheat": {
+      "units": "Kgs",
+      "ob": 2974,
+      "rec": 2754,
+      "iss": 2653,
+      "cb": 3075
+    },
+    "Rice": {
+      "units": "Kgs",
+      "ob": -63,
+      "rec": 0,
+      "iss": 63,
+      "cb": -126
+    },
+    "Sugar": {
+      "units": "Kgs",
+      "ob": 102,
+      "rec": 128,
+      "iss": 113,
+      "cb": 117
+    },
+    "Black Gram": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Poil": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Peas Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Foodgrain Kit": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Anandacha Shidha": {
+      "units": "PKTS",
+      "ob": -807,
+      "rec": 0,
+      "iss": 0,
+      "cb": -807
+    },
+    "SAREE": {
+      "units": "PKTS",
+      "ob": 6,
+      "rec": 0,
+      "iss": 1,
+      "cb": 5
+    },
+    "May-Wheat": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "May-Rice": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "MAY-Sugar": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "May-K Oil": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "May-DalChana": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Chana Whole": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "K Oil": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Bajara": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Maize OLD": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Jwari": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat-carry": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice-carry": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Sugar-carry": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "CoarseGrain-carry": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat-PMGKAY CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice-PMGKAY CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Toor Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Urad Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Channa Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat-PMGKAY MAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice-PMGKAY MAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat MAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice MAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Dal-PMGKAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Old Toor Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Old Urad Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Old Chana Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Dal-FREE": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Maize": {
+      "units": "Kgs",
+      "ob": 280,
+      "rec": 0,
+      "iss": 28.5,
+      "cb": 251.5
+    },
+    "Jowar": {
+      "units": "Kgs",
+      "ob": 1644,
+      "rec": 2701,
+      "iss": 2601.5,
+      "cb": 1743.5
+    },
+    "Bajra": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Ragi": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat-PMGKAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice-PMGKAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "FRice": {
+      "units": "Kgs",
+      "ob": 5488,
+      "rec": 3677,
+      "iss": 3484,
+      "cb": 5681
+    },
+    "Coarse Grain": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest Sugar": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest POil": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest Rava": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest Bag": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest Chana Dal": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "May-Coarse Grain": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Anandacha Shidha Sugar": {
+      "units": "PKTS",
+      "ob": 30,
+      "rec": 0,
+      "iss": 0,
+      "cb": 30
+    },
+    "Anandacha Shidha POil": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Anandacha Shidha Rava": {
+      "units": "PKTS",
+      "ob": 30,
+      "rec": 0,
+      "iss": 0,
+      "cb": 30
+    },
+    "Anandacha Shidha Bag": {
+      "units": "PKTS",
+      "ob": 30,
+      "rec": 0,
+      "iss": 0,
+      "cb": 30
+    },
+    "Anandacha Soybean Oil": {
+      "units": "PKTS",
+      "ob": 30,
+      "rec": 0,
+      "iss": 0,
+      "cb": 30
+    },
+    "Anandacha Shidha Chana Dal": {
+      "units": "PKTS",
+      "ob": 30,
+      "rec": 0,
+      "iss": 0,
+      "cb": 30
+    },
+    "A S Half kg Rava": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "PMGKAY Bag": {
+      "units": "PKTS",
+      "ob": 66,
+      "rec": 0,
+      "iss": 0,
+      "cb": 66
+    },
+    "A S Half Kg Chana Dal": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "A S Half Kg Maida": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "A S Half Kg Pohe": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Maize CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Jowar CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Bajra CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Ragi CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    }
+  },
+  "150024600326": {
+    "Wheat": {
+      "units": "Kgs",
+      "ob": 2232,
+      "rec": 0,
+      "iss": 1803,
+      "cb": 429
+    },
+    "Rice": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 35,
+      "cb": -35
+    },
+    "Sugar": {
+      "units": "Kgs",
+      "ob": 46,
+      "rec": 46,
+      "iss": 89,
+      "cb": 3
+    },
+    "Black Gram": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Poil": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Peas Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Foodgrain Kit": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Anandacha Shidha": {
+      "units": "PKTS",
+      "ob": -348,
+      "rec": 0,
+      "iss": 0,
+      "cb": -348
+    },
+    "SAREE": {
+      "units": "PKTS",
+      "ob": 9,
+      "rec": 0,
+      "iss": 9,
+      "cb": 0
+    },
+    "May-Wheat": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "May-Rice": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "MAY-Sugar": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "May-K Oil": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "May-DalChana": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Chana Whole": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "K Oil": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Bajara": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Maize OLD": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Jwari": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat-carry": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice-carry": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Sugar-carry": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "CoarseGrain-carry": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat-PMGKAY CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice-PMGKAY CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Toor Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Urad Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Channa Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat-PMGKAY MAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice-PMGKAY MAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat MAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice MAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Dal-PMGKAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Old Toor Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Old Urad Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Old Chana Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Dal-FREE": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Maize": {
+      "units": "Kgs",
+      "ob": 43,
+      "rec": 0,
+      "iss": 10.5,
+      "cb": 32.5
+    },
+    "Jowar": {
+      "units": "Kgs",
+      "ob": 2650,
+      "rec": 0,
+      "iss": 1786,
+      "cb": 864
+    },
+    "Bajra": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Ragi": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat-PMGKAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice-PMGKAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "FRice": {
+      "units": "Kgs",
+      "ob": 2825,
+      "rec": 0,
+      "iss": 2374,
+      "cb": 451
+    },
+    "Coarse Grain": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest Sugar": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest POil": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest Rava": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest Bag": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest Chana Dal": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "May-Coarse Grain": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Anandacha Shidha Sugar": {
+      "units": "PKTS",
+      "ob": 28,
+      "rec": 0,
+      "iss": 0,
+      "cb": 28
+    },
+    "Anandacha Shidha POil": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Anandacha Shidha Rava": {
+      "units": "PKTS",
+      "ob": 28,
+      "rec": 0,
+      "iss": 0,
+      "cb": 28
+    },
+    "Anandacha Shidha Bag": {
+      "units": "PKTS",
+      "ob": 28,
+      "rec": 0,
+      "iss": 0,
+      "cb": 28
+    },
+    "Anandacha Soybean Oil": {
+      "units": "PKTS",
+      "ob": 28,
+      "rec": 0,
+      "iss": 0,
+      "cb": 28
+    },
+    "Anandacha Shidha Chana Dal": {
+      "units": "PKTS",
+      "ob": 28,
+      "rec": 0,
+      "iss": 0,
+      "cb": 28
+    },
+    "A S Half kg Rava": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "PMGKAY Bag": {
+      "units": "PKTS",
+      "ob": 102,
+      "rec": 0,
+      "iss": 0,
+      "cb": 102
+    },
+    "A S Half Kg Chana Dal": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "A S Half Kg Maida": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "A S Half Kg Pohe": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Maize CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Jowar CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Bajra CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Ragi CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    }
+  },
+  "150024600327": {
+    "Wheat": {
+      "units": "Kgs",
+      "ob": 1996.5,
+      "rec": 0,
+      "iss": 1996,
+      "cb": 0.5
+    },
+    "Rice": {
+      "units": "Kgs",
+      "ob": -53,
+      "rec": 0,
+      "iss": 18,
+      "cb": -71
+    },
+    "Sugar": {
+      "units": "Kgs",
+      "ob": 75,
+      "rec": 0,
+      "iss": 64,
+      "cb": 11
+    },
+    "Black Gram": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Poil": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Peas Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Foodgrain Kit": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Anandacha Shidha": {
+      "units": "PKTS",
+      "ob": -611,
+      "rec": 0,
+      "iss": 0,
+      "cb": -611
+    },
+    "SAREE": {
+      "units": "PKTS",
+      "ob": 6,
+      "rec": 0,
+      "iss": 6,
+      "cb": 0
+    },
+    "May-Wheat": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "May-Rice": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "MAY-Sugar": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "May-K Oil": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "May-DalChana": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Chana Whole": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "K Oil": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Bajara": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Maize OLD": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Jwari": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat-carry": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice-carry": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Sugar-carry": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "CoarseGrain-carry": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat-PMGKAY CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice-PMGKAY CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Toor Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Urad Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Channa Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat-PMGKAY MAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice-PMGKAY MAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat MAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice MAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Dal-PMGKAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Old Toor Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Old Urad Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Old Chana Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Dal-FREE": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Maize": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Jowar": {
+      "units": "Kgs",
+      "ob": 2253.5,
+      "rec": 0,
+      "iss": 2013,
+      "cb": 240.5
+    },
+    "Bajra": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Ragi": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat-PMGKAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice-PMGKAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "FRice": {
+      "units": "Kgs",
+      "ob": 2693,
+      "rec": 0,
+      "iss": 2620,
+      "cb": 73
+    },
+    "Coarse Grain": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest Sugar": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest POil": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest Rava": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest Bag": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest Chana Dal": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "May-Coarse Grain": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Anandacha Shidha Sugar": {
+      "units": "PKTS",
+      "ob": 25,
+      "rec": 0,
+      "iss": 0,
+      "cb": 25
+    },
+    "Anandacha Shidha POil": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Anandacha Shidha Rava": {
+      "units": "PKTS",
+      "ob": 25,
+      "rec": 0,
+      "iss": 0,
+      "cb": 25
+    },
+    "Anandacha Shidha Bag": {
+      "units": "PKTS",
+      "ob": 25,
+      "rec": 0,
+      "iss": 0,
+      "cb": 25
+    },
+    "Anandacha Soybean Oil": {
+      "units": "PKTS",
+      "ob": 25,
+      "rec": 0,
+      "iss": 0,
+      "cb": 25
+    },
+    "Anandacha Shidha Chana Dal": {
+      "units": "PKTS",
+      "ob": 25,
+      "rec": 0,
+      "iss": 0,
+      "cb": 25
+    },
+    "A S Half kg Rava": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "PMGKAY Bag": {
+      "units": "PKTS",
+      "ob": 25,
+      "rec": 0,
+      "iss": 0,
+      "cb": 25
+    },
+    "A S Half Kg Chana Dal": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "A S Half Kg Maida": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "A S Half Kg Pohe": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Maize CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Jowar CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Bajra CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Ragi CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    }
+  },
+  "150024600328": {
+    "Wheat": {
+      "units": "Kgs",
+      "ob": 2696.5,
+      "rec": 0,
+      "iss": 2567,
+      "cb": 129.5
+    },
+    "Rice": {
+      "units": "Kgs",
+      "ob": -53,
+      "rec": 0,
+      "iss": 110,
+      "cb": -163
+    },
+    "Sugar": {
+      "units": "Kgs",
+      "ob": 42,
+      "rec": 0,
+      "iss": 40,
+      "cb": 2
+    },
+    "Black Gram": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Poil": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Peas Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Foodgrain Kit": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Anandacha Shidha": {
+      "units": "PKTS",
+      "ob": -818,
+      "rec": 0,
+      "iss": 0,
+      "cb": -818
+    },
+    "SAREE": {
+      "units": "PKTS",
+      "ob": 4,
+      "rec": 0,
+      "iss": 4,
+      "cb": 0
+    },
+    "May-Wheat": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "May-Rice": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "MAY-Sugar": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "May-K Oil": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "May-DalChana": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Chana Whole": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "K Oil": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Bajara": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Maize OLD": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Jwari": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat-carry": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice-carry": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Sugar-carry": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "CoarseGrain-carry": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat-PMGKAY CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice-PMGKAY CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Toor Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Urad Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Channa Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat-PMGKAY MAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice-PMGKAY MAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat MAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice MAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Dal-PMGKAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Old Toor Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Old Urad Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Old Chana Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Dal-FREE": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Maize": {
+      "units": "Kgs",
+      "ob": 113,
+      "rec": 0,
+      "iss": 95.5,
+      "cb": 17.5
+    },
+    "Jowar": {
+      "units": "Kgs",
+      "ob": 2837.5,
+      "rec": 0,
+      "iss": 2508.5,
+      "cb": 329
+    },
+    "Bajra": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Ragi": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat-PMGKAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice-PMGKAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "FRice": {
+      "units": "Kgs",
+      "ob": 3635,
+      "rec": 0,
+      "iss": 3382,
+      "cb": 253
+    },
+    "Coarse Grain": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest Sugar": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest POil": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest Rava": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest Bag": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest Chana Dal": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "May-Coarse Grain": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Anandacha Shidha Sugar": {
+      "units": "PKTS",
+      "ob": 53,
+      "rec": 0,
+      "iss": 0,
+      "cb": 53
+    },
+    "Anandacha Shidha POil": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Anandacha Shidha Rava": {
+      "units": "PKTS",
+      "ob": 53,
+      "rec": 0,
+      "iss": 0,
+      "cb": 53
+    },
+    "Anandacha Shidha Bag": {
+      "units": "PKTS",
+      "ob": 53,
+      "rec": 0,
+      "iss": 0,
+      "cb": 53
+    },
+    "Anandacha Soybean Oil": {
+      "units": "PKTS",
+      "ob": 53,
+      "rec": 0,
+      "iss": 0,
+      "cb": 53
+    },
+    "Anandacha Shidha Chana Dal": {
+      "units": "PKTS",
+      "ob": 53,
+      "rec": 0,
+      "iss": 0,
+      "cb": 53
+    },
+    "A S Half kg Rava": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "PMGKAY Bag": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "A S Half Kg Chana Dal": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "A S Half Kg Maida": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "A S Half Kg Pohe": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Maize CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Jowar CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Bajra CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Ragi CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    }
+  },
+  "150024600329": {
+    "Wheat": {
+      "units": "Kgs",
+      "ob": 1967,
+      "rec": 0,
+      "iss": 1827,
+      "cb": 140
+    },
+    "Rice": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Sugar": {
+      "units": "Kgs",
+      "ob": 129,
+      "rec": 0,
+      "iss": 97,
+      "cb": 32
+    },
+    "Black Gram": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Poil": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Peas Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Foodgrain Kit": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Anandacha Shidha": {
+      "units": "PKTS",
+      "ob": -632,
+      "rec": 0,
+      "iss": 0,
+      "cb": -632
+    },
+    "SAREE": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "May-Wheat": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "May-Rice": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "MAY-Sugar": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "May-K Oil": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "May-DalChana": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Chana Whole": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "K Oil": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Bajara": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Maize OLD": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Jwari": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat-carry": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice-carry": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Sugar-carry": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "CoarseGrain-carry": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat-PMGKAY CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice-PMGKAY CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Toor Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Urad Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Channa Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat-PMGKAY MAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice-PMGKAY MAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat MAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice MAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Dal-PMGKAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Old Toor Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Old Urad Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Old Chana Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Dal-FREE": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Maize": {
+      "units": "Kgs",
+      "ob": 2,
+      "rec": 0,
+      "iss": 0,
+      "cb": 2
+    },
+    "Jowar": {
+      "units": "Kgs",
+      "ob": 1882,
+      "rec": 0,
+      "iss": 1773,
+      "cb": 109
+    },
+    "Bajra": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Ragi": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat-PMGKAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice-PMGKAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "FRice": {
+      "units": "Kgs",
+      "ob": 2556,
+      "rec": 0,
+      "iss": 2400,
+      "cb": 156
+    },
+    "Coarse Grain": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest Sugar": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest POil": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest Rava": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest Bag": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest Chana Dal": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "May-Coarse Grain": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Anandacha Shidha Sugar": {
+      "units": "PKTS",
+      "ob": 30.55,
+      "rec": 0,
+      "iss": 0,
+      "cb": 30.55
+    },
+    "Anandacha Shidha POil": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Anandacha Shidha Rava": {
+      "units": "PKTS",
+      "ob": 36,
+      "rec": 0,
+      "iss": 0,
+      "cb": 36
+    },
+    "Anandacha Shidha Bag": {
+      "units": "PKTS",
+      "ob": 31,
+      "rec": 0,
+      "iss": 0,
+      "cb": 31
+    },
+    "Anandacha Soybean Oil": {
+      "units": "PKTS",
+      "ob": 31,
+      "rec": 0,
+      "iss": 0,
+      "cb": 31
+    },
+    "Anandacha Shidha Chana Dal": {
+      "units": "PKTS",
+      "ob": 31,
+      "rec": 0,
+      "iss": 0,
+      "cb": 31
+    },
+    "A S Half kg Rava": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "PMGKAY Bag": {
+      "units": "PKTS",
+      "ob": 264,
+      "rec": 0,
+      "iss": 0,
+      "cb": 264
+    },
+    "A S Half Kg Chana Dal": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "A S Half Kg Maida": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "A S Half Kg Pohe": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Maize CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Jowar CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Bajra CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Ragi CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    }
+  },
+  "150024600330": {
+    "Wheat": {
+      "units": "Kgs",
+      "ob": 4888.5,
+      "rec": 0,
+      "iss": 4181.5,
+      "cb": 707
+    },
+    "Rice": {
+      "units": "Kgs",
+      "ob": -60,
+      "rec": 0,
+      "iss": 67,
+      "cb": -127
+    },
+    "Sugar": {
+      "units": "Kgs",
+      "ob": 159,
+      "rec": 0,
+      "iss": 127,
+      "cb": 32
+    },
+    "Black Gram": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Poil": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Peas Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Foodgrain Kit": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Anandacha Shidha": {
+      "units": "PKTS",
+      "ob": -1136,
+      "rec": 0,
+      "iss": 0,
+      "cb": -1136
+    },
+    "SAREE": {
+      "units": "PKTS",
+      "ob": 24,
+      "rec": 0,
+      "iss": 19,
+      "cb": 5
+    },
+    "May-Wheat": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "May-Rice": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "MAY-Sugar": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "May-K Oil": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "May-DalChana": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Chana Whole": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "K Oil": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Bajara": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Maize OLD": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Jwari": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat-carry": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice-carry": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Sugar-carry": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "CoarseGrain-carry": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat-PMGKAY CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice-PMGKAY CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Toor Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Urad Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Channa Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat-PMGKAY MAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice-PMGKAY MAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat MAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice MAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Dal-PMGKAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Old Toor Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Old Urad Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Old Chana Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Dal-FREE": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Maize": {
+      "units": "Kgs",
+      "ob": 298,
+      "rec": 0,
+      "iss": 13.5,
+      "cb": 284.5
+    },
+    "Jowar": {
+      "units": "Kgs",
+      "ob": 4345.5,
+      "rec": 0,
+      "iss": 4119,
+      "cb": 226.5
+    },
+    "Bajra": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Ragi": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat-PMGKAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice-PMGKAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "FRice": {
+      "units": "Kgs",
+      "ob": 6277,
+      "rec": 0,
+      "iss": 5499,
+      "cb": 778
+    },
+    "Coarse Grain": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest Sugar": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest POil": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest Rava": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest Bag": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest Chana Dal": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "May-Coarse Grain": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Anandacha Shidha Sugar": {
+      "units": "PKTS",
+      "ob": 30,
+      "rec": 0,
+      "iss": 0,
+      "cb": 30
+    },
+    "Anandacha Shidha POil": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Anandacha Shidha Rava": {
+      "units": "PKTS",
+      "ob": 30,
+      "rec": 0,
+      "iss": 0,
+      "cb": 30
+    },
+    "Anandacha Shidha Bag": {
+      "units": "PKTS",
+      "ob": 30,
+      "rec": 0,
+      "iss": 0,
+      "cb": 30
+    },
+    "Anandacha Soybean Oil": {
+      "units": "PKTS",
+      "ob": 30,
+      "rec": 0,
+      "iss": 0,
+      "cb": 30
+    },
+    "Anandacha Shidha Chana Dal": {
+      "units": "PKTS",
+      "ob": 30,
+      "rec": 0,
+      "iss": 0,
+      "cb": 30
+    },
+    "A S Half kg Rava": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "PMGKAY Bag": {
+      "units": "PKTS",
+      "ob": 74,
+      "rec": 0,
+      "iss": 0,
+      "cb": 74
+    },
+    "A S Half Kg Chana Dal": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "A S Half Kg Maida": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "A S Half Kg Pohe": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Maize CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Jowar CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Bajra CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Ragi CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    }
+  },
+  "150024600331": {
+    "Wheat": {
+      "units": "Kgs",
+      "ob": 215,
+      "rec": 2968,
+      "iss": 2735.5,
+      "cb": 447.5
+    },
+    "Rice": {
+      "units": "Kgs",
+      "ob": -34,
+      "rec": 0,
+      "iss": 24,
+      "cb": -58
+    },
+    "Sugar": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 124,
+      "iss": 120,
+      "cb": 4
+    },
+    "Black Gram": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Poil": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Peas Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Foodgrain Kit": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Anandacha Shidha": {
+      "units": "PKTS",
+      "ob": -896,
+      "rec": 0,
+      "iss": 0,
+      "cb": -896
+    },
+    "SAREE": {
+      "units": "PKTS",
+      "ob": 26,
+      "rec": 0,
+      "iss": 26,
+      "cb": 0
+    },
+    "May-Wheat": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "May-Rice": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "MAY-Sugar": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "May-K Oil": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "May-DalChana": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Chana Whole": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "K Oil": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Bajara": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Maize OLD": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Jwari": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat-carry": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice-carry": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Sugar-carry": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "CoarseGrain-carry": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat-PMGKAY CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice-PMGKAY CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Toor Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Urad Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Channa Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat-PMGKAY MAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice-PMGKAY MAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat MAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice MAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Dal-PMGKAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Old Toor Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Old Urad Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Old Chana Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Dal-FREE": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Maize": {
+      "units": "Kgs",
+      "ob": 37,
+      "rec": 0,
+      "iss": 17.5,
+      "cb": 19.5
+    },
+    "Jowar": {
+      "units": "Kgs",
+      "ob": 133,
+      "rec": 2906,
+      "iss": 2652,
+      "cb": 387
+    },
+    "Bajra": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Ragi": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat-PMGKAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice-PMGKAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "FRice": {
+      "units": "Kgs",
+      "ob": 160,
+      "rec": 3916,
+      "iss": 3598,
+      "cb": 478
+    },
+    "Coarse Grain": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest Sugar": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest POil": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest Rava": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest Bag": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest Chana Dal": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "May-Coarse Grain": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Anandacha Shidha Sugar": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Anandacha Shidha POil": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Anandacha Shidha Rava": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Anandacha Shidha Bag": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Anandacha Soybean Oil": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Anandacha Shidha Chana Dal": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "A S Half kg Rava": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "PMGKAY Bag": {
+      "units": "PKTS",
+      "ob": 27,
+      "rec": 0,
+      "iss": 0,
+      "cb": 27
+    },
+    "A S Half Kg Chana Dal": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "A S Half Kg Maida": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "A S Half Kg Pohe": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Maize CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Jowar CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Bajra CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Ragi CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    }
+  },
+  "150024600359": {
+    "Wheat": {
+      "units": "Kgs",
+      "ob": 1.5,
+      "rec": 2270,
+      "iss": 2111.5,
+      "cb": 160
+    },
+    "Rice": {
+      "units": "Kgs",
+      "ob": -37,
+      "rec": 0,
+      "iss": 76,
+      "cb": -113
+    },
+    "Sugar": {
+      "units": "Kgs",
+      "ob": 7,
+      "rec": 70,
+      "iss": 37,
+      "cb": 40
+    },
+    "Black Gram": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Poil": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Peas Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Foodgrain Kit": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Anandacha Shidha": {
+      "units": "PKTS",
+      "ob": -350,
+      "rec": 0,
+      "iss": 0,
+      "cb": -350
+    },
+    "SAREE": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "May-Wheat": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "May-Rice": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "MAY-Sugar": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "May-K Oil": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "May-DalChana": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Chana Whole": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "K Oil": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Bajara": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Maize OLD": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Jwari": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat-carry": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice-carry": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Sugar-carry": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "CoarseGrain-carry": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat-PMGKAY CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice-PMGKAY CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Toor Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Urad Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Channa Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat-PMGKAY MAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice-PMGKAY MAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat MAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice MAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Dal-PMGKAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Old Toor Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Old Urad Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Old Chana Dal": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Dal-FREE": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Maize": {
+      "units": "Kgs",
+      "ob": 50,
+      "rec": 0,
+      "iss": 10.5,
+      "cb": 39.5
+    },
+    "Jowar": {
+      "units": "Kgs",
+      "ob": 723.5,
+      "rec": 2235,
+      "iss": 2106,
+      "cb": 852.5
+    },
+    "Bajra": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Ragi": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Wheat-PMGKAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Rice-PMGKAY": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "FRice": {
+      "units": "Kgs",
+      "ob": 43,
+      "rec": 3020,
+      "iss": 2776,
+      "cb": 287
+    },
+    "Coarse Grain": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest Sugar": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest POil": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest Rava": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest Bag": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Fest Chana Dal": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "May-Coarse Grain": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Anandacha Shidha Sugar": {
+      "units": "PKTS",
+      "ob": 22,
+      "rec": 0,
+      "iss": 0,
+      "cb": 22
+    },
+    "Anandacha Shidha POil": {
+      "units": "PKTS",
+      "ob": 6,
+      "rec": 0,
+      "iss": 0,
+      "cb": 6
+    },
+    "Anandacha Shidha Rava": {
+      "units": "PKTS",
+      "ob": 16,
+      "rec": 0,
+      "iss": 0,
+      "cb": 16
+    },
+    "Anandacha Shidha Bag": {
+      "units": "PKTS",
+      "ob": 22,
+      "rec": 0,
+      "iss": 0,
+      "cb": 22
+    },
+    "Anandacha Soybean Oil": {
+      "units": "PKTS",
+      "ob": 16,
+      "rec": 0,
+      "iss": 0,
+      "cb": 16
+    },
+    "Anandacha Shidha Chana Dal": {
+      "units": "PKTS",
+      "ob": 16,
+      "rec": 0,
+      "iss": 0,
+      "cb": 16
+    },
+    "A S Half kg Rava": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "PMGKAY Bag": {
+      "units": "PKTS",
+      "ob": 260,
+      "rec": 0,
+      "iss": 0,
+      "cb": 260
+    },
+    "A S Half Kg Chana Dal": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "A S Half Kg Maida": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "A S Half Kg Pohe": {
+      "units": "PKTS",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Maize CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Jowar CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Bajra CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    },
+    "Ragi CF": {
+      "units": "Kgs",
+      "ob": 0,
+      "rec": 0,
+      "iss": 0,
+      "cb": 0
+    }
+  }
+}
